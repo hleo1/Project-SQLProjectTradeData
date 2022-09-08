@@ -1,0 +1,22 @@
+A SQL Project that looks into economic data related to certain countries, and the links that exist
+between countries. Used PHP for visualization.
+
+Originally for a school project, and imported to personal github
+
+Here is the list of questions below:
+1) In a given year, note the CO2 emissions, Top Sector(s) with 
+    its respective export value, and Economic Complexity of all countries.
+2) For a given industry and country, use a line graph to show the 
+	export value, GDP, and CO2 emissions over the entire range of years possible.
+3) During a given year range, find the top 5 countries, 
+	with the highest GDP growth and highest net export values, and the US leaders during this time.
+4) Given a specific year, use a bar chart to show cumulative GDP 
+	and export value in all sectors combined.
+5) Given a specific industry, a specific year, and a specific country, 
+	how much did that country export?
+6) Given a specific industry, country and year, show the top five export partners & values in a bar chart.
+7) Determine the GDP, Total Imports, and Total Exports for country given a time period.
+8) Determine the Top 5 main sectors that contributed to top polluter's export growth during a certain year.
+9) Determine the top Exports Categories that grew and declined for US presidential terms between only 2005 - 2019.
+10) Determine the Top Import trading partners that are less economically complex than a given country, in a given year.
+11) Determine the Top Bilateral Trading Sectors and Partners.

@@ -1,0 +1,15 @@
+leader,syear,eyear
+Truman,1945,1953
+Eisenhower,1953,1961
+Kennedy,1961,1963
+Johnson,1963,1969
+Nixon,1969,1974
+Ford,1974,1977
+Carter,1977,1981
+Reagan,1981,1989
+Bush,1989,1993
+Clinton,1993,2001
+G.W. Bush,2001,2009
+Obama,2009,2017
+Trump,2017,2021
+Biden,2021,\N

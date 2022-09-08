@@ -1,0 +1,15 @@
+country,year,co2
+Brunei Darussalam,1933,0.004
+Brunei Darussalam,1934,0.044
+Brunei Darussalam,1935,0.026
+China,1987,2191.053
+China,1988,2347.763
+China,1989,2386.885
+China,2016,9552.517
+China,2017,9750.726
+Indonesia,2016,568.194
+Indonesia,2017,531.012
+Indonesia,2018,576.584
+Indonesia,2019,617.513
+United States,2016,5292.268
+United States,2017,5253.606

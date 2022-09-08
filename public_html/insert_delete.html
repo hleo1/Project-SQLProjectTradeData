@@ -1,0 +1,177 @@
+<!-- 
+	Sebastian Cabrejos (scabrej1) & Hubert Leo (hleo1)
+	Project Phase E due May 11, 11 p.m.
+-->
+<html>
+   <head>
+		<title>Final Project</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   </head>
+<body>
+    <div class = "text-center">
+        <h2>
+            Insert into Countries Table
+        </h2>
+        <br/>
+        <form action="InsertCountries.php" method="post">
+            Continent: <input type="text" name="continent">
+            Country: <input type="text" name="country"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Insert into Climate Table*
+        </h2>
+        <h5>* Note that CO2 Emissions must be in decimal form (e.g. 5.142)</h5>
+        <br/>
+        <form action="InsertClimate.php" method="post">
+            Country: <input type="text" name="country">
+            Year: <input type="text" name="year">
+            CO2 Emissions: <input type="text" name="co2"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Insert into Economic Complexity Table
+        </h2>
+        <br/>
+        <form action="InsertComplexity.php" method="post">
+            Year: <input type="text" name="year">
+            Country: <input type="text" name="country">
+            Economic Complexity Index: <input type="text" name="complexity"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+        
+        <h2>
+            Insert into GDP Table
+        </h2>
+        <br/>
+        <form action="InsertGDP.php" method="post">
+            Country: <input type="text" name="country">
+            Year: <input type="text" name="year">
+            GDP: <input type="text" name="gdp"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Insert into Sectors Table
+        </h2>
+        <br/>
+        <form action="InsertSectors.php" method="post">
+            Sector: <input type="text" name="sector"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Insert into Trade Flows Table
+        </h2>
+        <br/>
+        <form action="InsertTradeFlows.php" method="post">
+            Country Origin: <input type="text" name="country_origin">
+            Country Destination: <input type="text" name="country_dest_name">
+            Export Values: <input type="text" name="export_values">
+            Sector: <input type="text" name="sector">
+            Year: <input type="text" name="year"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Insert into US Leaders Table*
+        </h2>
+        <h5>* Note that the new leader inserted cannot have already served 2 presidential terms</h5>
+        <br/>
+        <form action="InsertLeaders.php" method="post">
+            Leader Name: <input type="text" name="leader"> 
+            Start Year: <input type="text" name="start_year"> 
+            End Year: <input type="text" name="end_year"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from Countries Table
+        </h2>
+        <br/>
+        <form action="DeleteCountries.php" method="post">
+            Country: <input type="text" name="country"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from Climate Table
+        </h2>
+        <br/>
+        <form action="DeleteClimate.php" method="post">
+            Country: <input type="text" name="country">
+            Year: <input type="text" name="year"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from Economic Complexity Table
+        </h2>
+        <br/>
+        <form action="DeleteComplexity.php" method="post">
+            Year: <input type="text" name="year">
+            Country: <input type="text" name="country"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from GDP Table
+        </h2>
+        <br/>
+        <form action="DeleteGDP.php" method="post">
+            Country: <input type="text" name="country">
+            Year: <input type="text" name="year"><br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from Sectors Table
+        </h2>
+        <br/>
+        <form action="DeleteSectors.php" method="post">
+            Sector: <input type="text" name="sector"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from Trade Flows Table
+        </h2>
+        <br/>
+        <form action="DeleteTradeFlows.php" method="post">
+            Country Origin: <input type="text" name="country_origin">
+            Country Destination: <input type="text" name="country_dest_name">
+            Sector: <input type="text" name="sector">
+            Year: <input type="text" name="year"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+
+        <h2>
+            Delete from US Leaders Table
+        </h2>
+        <br/>
+        <form action="DeleteLeaders.php" method="post">
+            Leader Name: <input type="text" name="leader"> <br/><br/>
+            <input type="submit" class="btn btn-success">
+        </form>
+        <br/>
+    </div>
+</body>

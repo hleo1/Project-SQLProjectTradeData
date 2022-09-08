@@ -1,0 +1,26 @@
+CountryName,ContinentName
+Argentina,South America
+Australia,Oceania
+Brazil,South America
+Brunei Darussalam,Asia
+Canada,North America
+China,Asia
+France,Europe
+Germany,Europe
+India,Asia
+Indonesia,Asia
+Italy,Europe
+Japan,Asia
+Malaysia,Asia
+Mexico,North America
+Philippines,Asia
+Russia,Europe
+Saudi Arabia,Middle East
+Singapore,Asia
+South Africa,Africa
+South Korea,Asia
+Thailand,Asia
+Turkey,Europe
+United Kingdom,Europe
+United States,North America
+Vietnam,Asia

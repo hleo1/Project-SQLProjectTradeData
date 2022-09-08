@@ -1,0 +1,14 @@
+﻿Country Name,Year,GDP
+Brunei Darussalam,1985,3523612563
+China,1985,3.09488E+11
+Indonesia,1985,85289491750
+China,1987,2.72973E+11
+Indonesia,1987,75929617577
+Malaysia,1987,32181695507
+Brunei Darussalam,1987,2754463438
+China,2018,1.38948E+13
+Indonesia,2018,1.04224E+12
+Malaysia,2018,3.58715E+11
+Philippines,2018,3.46842E+11
+Singapore,2018,3.73217E+11
+Thailand,2018,5.06514E+11

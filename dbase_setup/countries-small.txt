@@ -1,0 +1,11 @@
+CountryName,ContinentName
+Brunei Darussalam,Asia
+Indonesia,Asia
+Malaysia,Asia
+Philippines,Asia
+Singapore,Asia
+Thailand,Asia
+Vietnam,Asia
+United States,North America
+China,Asia
+Hong Kong SAR - China,Asia

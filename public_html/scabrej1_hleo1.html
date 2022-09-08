@@ -1,0 +1,239 @@
+<!-- 
+	Sebastian Cabrejos (scabrej1) & Hubert Leo (hleo1)
+	Project Phase E due May 11, 11 p.m.
+-->
+<html>
+   <head>
+		<title>Final Project</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   </head>
+   <body>
+	<div class="jumbotron text-center text-white" style="background-color: #00f870;">
+		<h1>Databases Final Project</h1>
+		<h4>Sebastian Cabrejos (scabrej1) & Hubert Leo (hleo1)</h4> 
+	</div>
+
+	<div class="container text-center">
+
+	<h2>Note</h2>
+	<h4>
+		This is a database meant to explore economic links between different countries.
+		We have decided only to focus on the trade linkages and information about the following
+		countries only: Argentina, Australia, Brazil, Brunei Darussalam, Canada, China, France, 
+		Germany, India, Indonesia, Italy, Japan, Malaysia, Mexico, Philippines, Russia, Saudi Arabia, 
+		Singapore, South Africa, South Korea, Thailand, Turkey, United Kingdom, United States, Vietnam.
+
+		Furthermore, we have set the limit of study only to the period between 2005 to 2019.
+	</h4> </br></br>
+	
+	<!-- Insert/Delete Tuples -->
+	<h2>
+		Insert and/or Delete Tuples
+	</h2>
+	<a href="./insert_delete.html" class="btn btn-info">Insert/Delete Tuples in Database</a>
+
+	<!-- Query #1 -->
+	<h2>
+		Query #1: In a given year, note the CO2 emissions, Top Sector(s) with 
+		its respective export value, and Economic Complexity of all countries.
+	</h2>
+	<br/>
+	<form action="Query1.php" method="post">
+		Year: <input type="text" name="year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #2 -->
+	<h2>
+		Query #2: For a given industry and country, use a line graph to show the 
+		export value, GDP, and CO2 emissions over the entire range of years possible.
+	</h2>
+	<br/>
+	<form action="Query2.php" method="post">
+		Country Name: <input type="text" name="country_name">
+		Industry: <select type="text" name="industry" class="btn btn-primary dropdown-toggle">
+			<option value="SELECT">SELECT</option>
+			<option value="Metals">Metals</option>
+			<option value="Textiles">Textiles</option>
+			<option value="Machines">Machines</option>
+			<option value="Transportation">Transportation</option>
+			<option value="Chemical Products">Chemical Products</option>
+			<option value="Instruments">Instruments</option>
+			<option value="Animal Products">Animal Products</option>
+			<option value="Miscellaneous">Miscellaneous</option>
+			<option value="Mineral Products">Mineral Products</option>
+			<option value="Wood Products">Wood Products</option>
+			<option value="Arts and Antiques">Arts and Antiques</option>
+			<option value="Precious Metals">Precious Metals</option>
+			<option value="Plastics and Rubbers">Plastics and Rubbers</option>
+			<option value="Animal Hides">Animal Hides</option>
+			<option value="Footwear and Headwear">Footwear and Headwear</option>
+			<option value="Foodstuffs">Foodstuffs</option>
+			<option value="Stone And Glass">Stone And Glass</option>
+			<option value="Paper Goods">Paper Goods</option>
+			<option value="Vegetable Products">Vegetable Products</option>
+			<option value="Animal and Vegetable Bi-Products">Animal and Vegetable Bi-Products</option>
+			<option value="Weapons">Weapons</option> 
+		</select> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #3 -->
+	<h2>
+		Query #3:  During a given year range, find the top 5 countries, 
+		with the highest GDP growth and highest net export values, and the US leaders during this time.
+	</h2>
+	<br/>
+	<form action="Query3.php" method="post">
+		Initial Year: <input type="text" name="initial_year">
+		End Year: <input type="text" name="end_year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #4 -->
+	<h2>
+		Query #4: Given a specific year, use a bar chart to show cumulative GDP 
+		and export value in all sectors combined.
+	</h2>
+	<br/>
+	<form action="Query4.php" method="post">
+		Year: <input type="text" name="year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #5 -->
+	<h2>
+		Query #5: Given a specific industry, a specific year, and a specific country, 
+		how much did that country export?
+	</h2>
+	<br/>
+	<form action="Query5.php" method="post">
+		Country Name: <input type="text" name="country_name">
+		Industry: <select type="text" name="industry" class="btn btn-primary dropdown-toggle">
+			<option value="SELECT">SELECT</option>
+			<option value="Metals">Metals</option>
+			<option value="Textiles">Textiles</option>
+			<option value="Machines">Machines</option>
+			<option value="Transportation">Transportation</option>
+			<option value="Chemical Products">Chemical Products</option>
+			<option value="Instruments">Instruments</option>
+			<option value="Animal Products">Animal Products</option>
+			<option value="Miscellaneous">Miscellaneous</option>
+			<option value="Mineral Products">Mineral Products</option>
+			<option value="Wood Products">Wood Products</option>
+			<option value="Arts and Antiques">Arts and Antiques</option>
+			<option value="Precious Metals">Precious Metals</option>
+			<option value="Plastics and Rubbers">Plastics and Rubbers</option>
+			<option value="Animal Hides">Animal Hides</option>
+			<option value="Footwear and Headwear">Footwear and Headwear</option>
+			<option value="Foodstuffs">Foodstuffs</option>
+			<option value="Stone And Glass">Stone And Glass</option>
+			<option value="Paper Goods">Paper Goods</option>
+			<option value="Vegetable Products">Vegetable Products</option>
+			<option value="Animal and Vegetable Bi-Products">Animal and Vegetable Bi-Products</option>
+			<option value="Weapons">Weapons</option>
+		</select>  
+		Year: <input type="text" name="year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #6 -->
+	<h2>Query #6: Given a specific industry, country and year, show the top five export partners & values in a bar chart.</h2>
+	<br/>
+	<form action="Query6.php" method="post">
+		Country Name: <input type="text" name="country_name">
+		Industry: <select type="text" name="industry" class="btn btn-primary dropdown-toggle">
+			<option value="SELECT">SELECT</option>
+			<option value="Metals">Metals</option>
+			<option value="Textiles">Textiles</option>
+			<option value="Machines">Machines</option>
+			<option value="Transportation">Transportation</option>
+			<option value="Chemical Products">Chemical Products</option>
+			<option value="Instruments">Instruments</option>
+			<option value="Animal Products">Animal Products</option>
+			<option value="Miscellaneous">Miscellaneous</option>
+			<option value="Mineral Products">Mineral Products</option>
+			<option value="Wood Products">Wood Products</option>
+			<option value="Arts and Antiques">Arts and Antiques</option>
+			<option value="Precious Metals">Precious Metals</option>
+			<option value="Plastics and Rubbers">Plastics and Rubbers</option>
+			<option value="Animal Hides">Animal Hides</option>
+			<option value="Footwear and Headwear">Footwear and Headwear</option>
+			<option value="Foodstuffs">Foodstuffs</option>
+			<option value="Stone And Glass">Stone And Glass</option>
+			<option value="Paper Goods">Paper Goods</option>
+			<option value="Vegetable Products">Vegetable Products</option>
+			<option value="Animal and Vegetable Bi-Products">Animal and Vegetable Bi-Products</option>
+			<option value="Weapons">Weapons</option> 
+		</select> 
+		Year: <input type="text" name="year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #7 -->
+	<h2>Query #7: Determine the GDP, Total Imports, and Total Exports for country given a time period.</h2>
+	<br/>
+	<form action="Query7.php" method="post">
+		Country: <input type="text" name="country">
+		Start Year: <input type="text" name="start_year">
+		End Year: <input type="text" name="end_year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #8 -->
+	<h2>Query #8: Determine the Top 5 main sectors that contributed to top polluter's export growth during a certain year.</h2>
+	<br/>
+	<form action="Query8.php" method="post">
+		Year: <input type="text" name="year"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #9 -->
+	<h2>Query #9: Determine the top Exports Categories that grew and declined for US presidential terms between only 2005 - 2019.</h2>
+	<br/>
+	<form action="Query9.php" method="post">
+		US Presidential Term: <select type="text" name="pres_term" class="btn btn-primary dropdown-toggle">
+			<option value="SELECT">SELECT</option>
+			<option value="george_second">George Bush Second Term</option>
+			<option value="obama_first">Obama First Term</option>
+			<option value="obama_second">Obama Second Term</option>
+			<option value="donald_first">Donald Trump First Term</option>
+		</select> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #10 -->
+	<h2>Query #10: Determine the Top Import trading partners that are less economically complex than a given country, in a given year.</h2>
+	<br/>
+	<form action="Query10.php" method="post">
+		Year: <input type="text" name="year"> 
+		Country: <input type="text" name="country"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+
+	<!-- Query #11 -->
+	<h2>Query #11: Determine the Top Bilateral Trading Sectors and Partners.</h2>
+	<form action="Query11.php" method="post">
+		Year: <input type="text" name="year">
+		Country: <input type="text" name="country"> <br/><br/>
+		<input type="submit" class="btn btn-success">
+	</form>
+	<br/><br/>
+	
+	</div>
+   </body>
+</html>

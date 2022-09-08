@@ -1,0 +1,9 @@
+﻿Year,Countries,Economic Freedom Summary Index
+2018,Philippines,7.43
+2018,Singapore,8.65
+2018,Thailand,6.75
+2018,United States,8.22
+2014,Vietnam,6.03
+2013,Brunei Darussalam,6.81
+2013,China,6.19
+2013,Hong Kong SAR - China,8.81

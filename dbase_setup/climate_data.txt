@@ -1,0 +1,3711 @@
+country,year,co2
+Argentina,1887,1.085
+Argentina,1888,0.89
+Argentina,1889,1.755
+Argentina,1890,1.37
+Argentina,1891,0.938
+Argentina,1892,1.385
+Argentina,1893,1.554
+Argentina,1894,1.993
+Argentina,1895,2.264
+Argentina,1896,2.305
+Argentina,1897,2.081
+Argentina,1898,2.349
+Argentina,1899,2.92
+Argentina,1900,2.07
+Argentina,1901,2.492
+Argentina,1902,2.814
+Argentina,1903,2.862
+Argentina,1904,3.796
+Argentina,1905,3.983
+Argentina,1906,6.254
+Argentina,1907,6.254
+Argentina,1908,7.617
+Argentina,1909,5.936
+Argentina,1910,8.907
+Argentina,1911,9.944
+Argentina,1912,9.479
+Argentina,1913,10.146
+Argentina,1914,8.673
+Argentina,1915,6.94
+Argentina,1916,4.987
+Argentina,1917,2.231
+Argentina,1918,2.521
+Argentina,1919,3.726
+Argentina,1920,5.892
+Argentina,1921,5.54
+Argentina,1922,7.299
+Argentina,1923,8.446
+Argentina,1924,10.959
+Argentina,1925,11.237
+Argentina,1926,11.259
+Argentina,1927,13.374
+Argentina,1928,12.739
+Argentina,1929,13.13
+Argentina,1930,12.767
+Argentina,1931,12.844
+Argentina,1932,13.1
+Argentina,1933,13.232
+Argentina,1934,14.24
+Argentina,1935,13.997
+Argentina,1936,15.096
+Argentina,1937,16.711
+Argentina,1938,16.347
+Argentina,1939,17.377
+Argentina,1940,15.864
+Argentina,1941,13.94
+Argentina,1942,13.479
+Argentina,1943,14.077
+Argentina,1944,13.952
+Argentina,1945,13.666
+Argentina,1946,13.702
+Argentina,1947,14.515
+Argentina,1948,17.392
+Argentina,1949,15.365
+Argentina,1950,29.921
+Argentina,1951,34.963
+Argentina,1952,36.095
+Argentina,1953,35.135
+Argentina,1954,36.75
+Argentina,1955,39.56
+Argentina,1956,44.297
+Argentina,1957,47.608
+Argentina,1958,44.193
+Argentina,1959,48.949
+Argentina,1960,48.764
+Argentina,1961,51.127
+Argentina,1962,53.64
+Argentina,1963,50.033
+Argentina,1964,55.67
+Argentina,1965,58.805
+Argentina,1966,63.073
+Argentina,1967,65.476
+Argentina,1968,69.009
+Argentina,1969,77.249
+Argentina,1970,82.648
+Argentina,1971,88.847
+Argentina,1972,90.067
+Argentina,1973,93.976
+Argentina,1974,95.481
+Argentina,1975,94.846
+Argentina,1976,99.7
+Argentina,1977,100.706
+Argentina,1978,102.556
+Argentina,1979,110.617
+Argentina,1980,108.657
+Argentina,1981,101.969
+Argentina,1982,103.352
+Argentina,1983,105.143
+Argentina,1984,106.452
+Argentina,1985,100.532
+Argentina,1986,104.151
+Argentina,1987,114.878
+Argentina,1988,121.406
+Argentina,1989,117.021
+Argentina,1990,112.079
+Argentina,1991,117.506
+Argentina,1992,121.231
+Argentina,1993,117.777
+Argentina,1994,122.229
+Argentina,1995,127.765
+Argentina,1996,134.762
+Argentina,1997,137.641
+Argentina,1998,139.452
+Argentina,1999,147.285
+Argentina,2000,142.358
+Argentina,2001,134.004
+Argentina,2002,124.392
+Argentina,2003,134.631
+Argentina,2004,157.043
+Argentina,2005,161.434
+Argentina,2006,174.609
+Argentina,2007,174.246
+Argentina,2008,188.106
+Argentina,2009,178.949
+Argentina,2010,186.733
+Argentina,2011,190.274
+Argentina,2012,191.715
+Argentina,2013,190.152
+Argentina,2014,188.697
+Argentina,2015,192.366
+Argentina,2016,190.93
+Argentina,2017,187.416
+Argentina,2018,185.03
+Argentina,2019,178.94
+Australia,1860,0.278
+Australia,1861,0.509
+Australia,1862,0.355
+Australia,1863,0.399
+Australia,1864,0.267
+Australia,1865,0.421
+Australia,1866,0.696
+Australia,1867,0.894
+Australia,1868,0.733
+Australia,1869,0.641
+Australia,1870,0.601
+Australia,1871,0.692
+Australia,1872,0.707
+Australia,1873,0.868
+Australia,1874,0.89
+Australia,1875,0.828
+Australia,1876,0.931
+Australia,1877,1.066
+Australia,1878,0.967
+Australia,1879,1.455
+Australia,1880,2.206
+Australia,1881,1.766
+Australia,1882,2.012
+Australia,1883,2.426
+Australia,1884,2.572
+Australia,1885,2.906
+Australia,1886,2.887
+Australia,1887,3.034
+Australia,1888,3.528
+Australia,1889,3.426
+Australia,1890,3.547
+Australia,1891,4.008
+Australia,1892,4.151
+Australia,1893,3.964
+Australia,1894,4.36
+Australia,1895,4.591
+Australia,1896,4.503
+Australia,1897,4.976
+Australia,1898,5.613
+Australia,1899,5.785
+Australia,1900,10.168
+Australia,1901,11.439
+Australia,1902,11.395
+Australia,1903,11.219
+Australia,1904,11.545
+Australia,1905,12.047
+Australia,1906,14.359
+Australia,1907,15.477
+Australia,1908,16.755
+Australia,1909,14.553
+Australia,1910,17.437
+Australia,1911,19.24
+Australia,1912,20.786
+Australia,1913,22.391
+Australia,1914,24.479
+Australia,1915,21.793
+Australia,1916,19.273
+Australia,1917,20.76
+Australia,1918,22.94
+Australia,1919,21.739
+Australia,1920,25.732
+Australia,1921,23.153
+Australia,1922,24.344
+Australia,1923,24.849
+Australia,1924,27.07
+Australia,1925,28.235
+Australia,1926,27.854
+Australia,1927,28.894
+Australia,1928,26.286
+Australia,1929,23.652
+Australia,1930,22.029
+Australia,1931,19.546
+Australia,1932,20.342
+Australia,1933,21.58
+Australia,1934,22.697
+Australia,1935,25.228
+Australia,1936,27.049
+Australia,1937,28.855
+Australia,1938,28.035
+Australia,1939,32.142
+Australia,1940,29.038
+Australia,1941,34.545
+Australia,1942,36.502
+Australia,1943,34.99
+Australia,1944,34.209
+Australia,1945,32.695
+Australia,1946,35.421
+Australia,1947,38.014
+Australia,1948,38.42
+Australia,1949,37.647
+Australia,1950,54.739
+Australia,1951,59.029
+Australia,1952,60.201
+Australia,1953,59.435
+Australia,1954,67.839
+Australia,1955,70.674
+Australia,1956,73.03
+Australia,1957,74.516
+Australia,1958,77.608
+Australia,1959,83.708
+Australia,1960,88.119
+Australia,1961,90.504
+Australia,1962,94.823
+Australia,1963,100.934
+Australia,1964,108.876
+Australia,1965,120.853
+Australia,1966,120.219
+Australia,1967,129.144
+Australia,1968,134.497
+Australia,1969,142.124
+Australia,1970,147.48
+Australia,1971,152.63
+Australia,1972,157.336
+Australia,1973,170.827
+Australia,1974,172.189
+Australia,1975,175.714
+Australia,1976,174.075
+Australia,1977,187.605
+Australia,1978,201.82
+Australia,1979,204.87
+Australia,1980,220.531
+Australia,1981,230.133
+Australia,1982,233.889
+Australia,1983,224.785
+Australia,1984,236.361
+Australia,1985,240.988
+Australia,1986,239.722
+Australia,1987,255.85
+Australia,1988,260.879
+Australia,1989,277.486
+Australia,1990,278.425
+Australia,1991,279.873
+Australia,1992,284.912
+Australia,1993,289.235
+Australia,1994,294.015
+Australia,1995,305.41
+Australia,1996,312.362
+Australia,1997,320.795
+Australia,1998,334.685
+Australia,1999,344.064
+Australia,2000,350.195
+Australia,2001,357.669
+Australia,2002,362.21
+Australia,2003,369.726
+Australia,2004,383.205
+Australia,2005,386.513
+Australia,2006,392.681
+Australia,2007,399.842
+Australia,2008,404.417
+Australia,2009,407.463
+Australia,2010,405.503
+Australia,2011,404.173
+Australia,2012,406.506
+Australia,2013,397.943
+Australia,2014,394.117
+Australia,2015,401.555
+Australia,2016,411.032
+Australia,2017,415.097
+Australia,2018,415.954
+Australia,2019,411.016
+Brazil,1901,2.103
+Brazil,1902,2.506
+Brazil,1903,2.44
+Brazil,1904,2.62
+Brazil,1905,2.799
+Brazil,1906,3.206
+Brazil,1907,3.451
+Brazil,1908,3.594
+Brazil,1909,3.609
+Brazil,1910,4.199
+Brazil,1911,4.606
+Brazil,1912,5.591
+Brazil,1913,6.035
+Brazil,1914,4.107
+Brazil,1915,3.144
+Brazil,1916,2.88
+Brazil,1917,2.499
+Brazil,1918,2.323
+Brazil,1919,3.07
+Brazil,1920,3.646
+Brazil,1921,2.891
+Brazil,1922,3.781
+Brazil,1923,4.617
+Brazil,1924,5.104
+Brazil,1925,5.375
+Brazil,1926,5.478
+Brazil,1927,6.075
+Brazil,1928,5.928
+Brazil,1929,6.346
+Brazil,1930,5.514
+Brazil,1931,4.169
+Brazil,1932,4.169
+Brazil,1933,4.722
+Brazil,1934,4.623
+Brazil,1935,5.509
+Brazil,1936,5.146
+Brazil,1937,6.087
+Brazil,1938,6.094
+Brazil,1939,5.948
+Brazil,1940,6.486
+Brazil,1941,6.281
+Brazil,1942,5.867
+Brazil,1943,6.475
+Brazil,1944,5.896
+Brazil,1945,6.823
+Brazil,1946,7.46
+Brazil,1947,8.947
+Brazil,1948,7.847
+Brazil,1949,7.367
+Brazil,1950,19.659
+Brazil,1951,21.659
+Brazil,1952,24.934
+Brazil,1953,25.218
+Brazil,1954,29.676
+Brazil,1955,34.024
+Brazil,1956,36.608
+Brazil,1957,35.974
+Brazil,1958,39.054
+Brazil,1959,39.017
+Brazil,1960,46.852
+Brazil,1961,49.145
+Brazil,1962,53.631
+Brazil,1963,55.551
+Brazil,1964,56.667
+Brazil,1965,56.33
+Brazil,1966,64.212
+Brazil,1967,66.079
+Brazil,1968,77.271
+Brazil,1969,84.133
+Brazil,1970,93.53
+Brazil,1971,102.358
+Brazil,1972,114.014
+Brazil,1973,132.02
+Brazil,1974,142.927
+Brazil,1975,150.514
+Brazil,1976,154.398
+Brazil,1977,162.078
+Brazil,1978,175.931
+Brazil,1979,187.155
+Brazil,1980,185.758
+Brazil,1981,170.468
+Brazil,1982,170.789
+Brazil,1983,165.427
+Brazil,1984,167.606
+Brazil,1985,179.937
+Brazil,1986,197.226
+Brazil,1987,205.789
+Brazil,1988,207.563
+Brazil,1989,212.114
+Brazil,1990,206.921
+Brazil,1991,217.228
+Brazil,1992,218.383
+Brazil,1993,228.333
+Brazil,1994,239.471
+Brazil,1995,255.584
+Brazil,1996,281.195
+Brazil,1997,296.585
+Brazil,1998,308.306
+Brazil,1999,316.282
+Brazil,2000,324.226
+Brazil,2001,332.987
+Brazil,2002,327.435
+Brazil,2003,317.508
+Brazil,2004,333.675
+Brazil,2005,342.086
+Brazil,2006,341.946
+Brazil,2007,356.919
+Brazil,2008,380.345
+Brazil,2009,360.091
+Brazil,2010,411.24
+Brazil,2011,429.959
+Brazil,2012,460.098
+Brazil,2013,495.047
+Brazil,2014,523.894
+Brazil,2015,495.214
+Brazil,2016,478.443
+Brazil,2017,484.588
+Brazil,2018,466.649
+Brazil,2019,465.716
+Brunei,1933,0.004
+Brunei,1934,0.044
+Brunei,1935,0.026
+Brunei,1936,0.077
+Brunei,1937,0.205
+Brunei,1938,0.216
+Brunei,1939,2.627
+Brunei,1940,2.961
+Brunei,1941,1.968
+Brunei,1942,1.246
+Brunei,1943,1.872
+Brunei,1944,2.495
+Brunei,1945,0.92
+Brunei,1946,0.945
+Brunei,1947,5.353
+Brunei,1948,0.081
+Brunei,1949,11.468
+Brunei,1950,0.414
+Brunei,1951,0.3
+Brunei,1952,0.322
+Brunei,1953,0.344
+Brunei,1954,0.359
+Brunei,1955,0.3
+Brunei,1956,0.297
+Brunei,1957,0.293
+Brunei,1958,0.319
+Brunei,1959,0.326
+Brunei,1960,0.333
+Brunei,1961,0.304
+Brunei,1962,0.37
+Brunei,1963,0.355
+Brunei,1964,0.341
+Brunei,1965,0.333
+Brunei,1966,0.491
+Brunei,1967,0.44
+Brunei,1968,0.429
+Brunei,1969,0.487
+Brunei,1970,8.204
+Brunei,1971,7.511
+Brunei,1972,9.453
+Brunei,1973,9.973
+Brunei,1974,8.178
+Brunei,1975,7.075
+Brunei,1976,6.02
+Brunei,1977,6.39
+Brunei,1978,9.534
+Brunei,1979,7.434
+Brunei,1980,6.877
+Brunei,1981,1.469
+Brunei,1982,2.092
+Brunei,1983,2.704
+Brunei,1984,1.916
+Brunei,1985,2.594
+Brunei,1986,2.297
+Brunei,1987,3.316
+Brunei,1988,5.712
+Brunei,1989,6.342
+Brunei,1990,6.188
+Brunei,1991,5.305
+Brunei,1992,5.21
+Brunei,1993,4.965
+Brunei,1994,4.69
+Brunei,1995,4.785
+Brunei,1996,4.741
+Brunei,1997,4.932
+Brunei,1998,5.159
+Brunei,1999,3.803
+Brunei,2000,4.591
+Brunei,2001,4.389
+Brunei,2002,4.254
+Brunei,2003,4.47
+Brunei,2004,4.873
+Brunei,2005,4.869
+Brunei,2006,4.738
+Brunei,2007,8.31
+Brunei,2008,8.991
+Brunei,2009,7.746
+Brunei,2010,8.061
+Brunei,2011,9.545
+Brunei,2012,9.493
+Brunei,2013,7.628
+Brunei,2014,8.926
+Brunei,2015,6.954
+Brunei,2016,7.544
+Brunei,2017,9.552
+Brunei,2018,9.56
+Brunei,2019,9.089
+Canada,1785,0.004
+Canada,1786,0.004
+Canada,1787,0.004
+Canada,1788,0.004
+Canada,1789,0.004
+Canada,1790,0.004
+Canada,1791,0.004
+Canada,1792,0.004
+Canada,1793,0.004
+Canada,1794,0.004
+Canada,1795,0.004
+Canada,1796,0.004
+Canada,1797,0.004
+Canada,1798,0.004
+Canada,1799,0.004
+Canada,1800,0.004
+Canada,1801,0.004
+Canada,1802,0.004
+Canada,1803,0.004
+Canada,1804,0.004
+Canada,1805,0.004
+Canada,1806,0.004
+Canada,1807,0.004
+Canada,1808,0.004
+Canada,1809,0.004
+Canada,1810,0.004
+Canada,1811,0.004
+Canada,1812,0.004
+Canada,1813,0.004
+Canada,1814,0.004
+Canada,1815,0.004
+Canada,1816,0.004
+Canada,1817,0.004
+Canada,1818,0.004
+Canada,1819,0.004
+Canada,1820,0.004
+Canada,1821,0.004
+Canada,1822,0.004
+Canada,1823,0.004
+Canada,1824,0.004
+Canada,1825,0.004
+Canada,1826,0.004
+Canada,1827,0.004
+Canada,1828,0.004
+Canada,1829,0.004
+Canada,1830,0.004
+Canada,1831,0.004
+Canada,1832,0.004
+Canada,1833,0.004
+Canada,1834,0.004
+Canada,1835,0.004
+Canada,1836,0.004
+Canada,1837,0.004
+Canada,1838,0.004
+Canada,1839,0.004
+Canada,1840,0.004
+Canada,1841,0.004
+Canada,1842,0.004
+Canada,1843,0.004
+Canada,1844,0.004
+Canada,1845,0.004
+Canada,1846,0.026
+Canada,1847,0.033
+Canada,1848,0.04
+Canada,1849,0.048
+Canada,1850,0.059
+Canada,1851,0.07
+Canada,1852,0.084
+Canada,1853,0.103
+Canada,1854,0.125
+Canada,1855,0.15
+Canada,1856,0.18
+Canada,1857,0.216
+Canada,1858,0.264
+Canada,1859,0.315
+Canada,1860,0.381
+Canada,1861,0.458
+Canada,1862,0.561
+Canada,1863,0.703
+Canada,1864,0.843
+Canada,1865,1.019
+Canada,1866,1.242
+Canada,1867,1.594
+Canada,1868,0.945
+Canada,1869,0.685
+Canada,1870,1.224
+Canada,1871,1.781
+Canada,1872,1.847
+Canada,1873,1.608
+Canada,1874,1.623
+Canada,1875,1.876
+Canada,1876,1.858
+Canada,1877,2.023
+Canada,1878,1.935
+Canada,1879,2.184
+Canada,1880,5.232
+Canada,1881,5.591
+Canada,1882,6.617
+Canada,1883,7.431
+Canada,1884,8.599
+Canada,1885,8.244
+Canada,1886,8.797
+Canada,1887,10.149
+Canada,1888,13.311
+Canada,1889,11.292
+Canada,1890,12.414
+Canada,1891,13.942
+Canada,1892,13.89
+Canada,1893,14.854
+Canada,1894,14.18
+Canada,1895,13.531
+Canada,1896,14.649
+Canada,1897,14.799
+Canada,1898,15.708
+Canada,1899,19.17
+Canada,1900,20.628
+Canada,1901,23.845
+Canada,1902,25.648
+Canada,1903,27.96
+Canada,1904,33.097
+Canada,1905,35.387
+Canada,1906,37.387
+Canada,1907,46.991
+Canada,1908,47.408
+Canada,1909,45.386
+Canada,1910,51.622
+Canada,1911,60.269
+Canada,1912,67.271
+Canada,1913,79.282
+Canada,1914,68.381
+Canada,1915,61.116
+Canada,1916,76.457
+Canada,1917,85.243
+Canada,1918,89.519
+Canada,1919,76.09
+Canada,1920,84.378
+Canada,1921,80.483
+Canada,1922,69.209
+Canada,1923,92.981
+Canada,1924,77.384
+Canada,1925,75.248
+Canada,1926,84.756
+Canada,1927,91.999
+Canada,1928,93.777
+Canada,1929,99.03
+Canada,1930,94.348
+Canada,1931,75.849
+Canada,1932,70.207
+Canada,1933,69.483
+Canada,1934,79.913
+Canada,1935,78.796
+Canada,1936,86.163
+Canada,1937,93.483
+Canada,1938,85.544
+Canada,1939,95.004
+Canada,1940,108.622
+Canada,1941,120.152
+Canada,1942,131.077
+Canada,1943,138.062
+Canada,1944,140.407
+Canada,1945,130.521
+Canada,1946,138.422
+Canada,1947,143.548
+Canada,1948,158.507
+Canada,1949,145.022
+Canada,1950,154.134
+Canada,1951,162.678
+Canada,1952,159.409
+Canada,1953,160.608
+Canada,1954,162.968
+Canada,1955,169.473
+Canada,1956,189.802
+Canada,1957,182.811
+Canada,1958,182.155
+Canada,1959,184.481
+Canada,1960,192.716
+Canada,1961,194.001
+Canada,1962,206.991
+Canada,1963,210.911
+Canada,1964,237.578
+Canada,1965,251.917
+Canada,1966,259.074
+Canada,1967,281.637
+Canada,1968,303.261
+Canada,1969,307.119
+Canada,1970,341.177
+Canada,1971,352.285
+Canada,1972,380.787
+Canada,1973,381.265
+Canada,1974,389.605
+Canada,1975,396.773
+Canada,1976,398.946
+Canada,1977,407.771
+Canada,1978,415.505
+Canada,1979,441.647
+Canada,1980,442.817
+Canada,1981,429.598
+Canada,1982,414.426
+Canada,1983,408.31
+Canada,1984,425.199
+Canada,1985,421.676
+Canada,1986,404.66
+Canada,1987,430.922
+Canada,1988,455.608
+Canada,1989,462.818
+Canada,1990,462.117
+Canada,1991,452.495
+Canada,1992,467.037
+Canada,1993,467.406
+Canada,1994,482.437
+Canada,1995,494.92
+Canada,1996,510.737
+Canada,1997,524.789
+Canada,1998,533.64
+Canada,1999,549.553
+Canada,2000,572.162
+Canada,2001,564.946
+Canada,2002,570.845
+Canada,2003,587.178
+Canada,2004,585.703
+Canada,2005,576.434
+Canada,2006,570.95
+Canada,2007,594.221
+Canada,2008,575.587
+Canada,2009,542.55
+Canada,2010,555.55
+Canada,2011,566.741
+Canada,2012,569.737
+Canada,2013,576.327
+Canada,2014,575.942
+Canada,2015,575.907
+Canada,2016,564.033
+Canada,2017,572.834
+Canada,2018,586.505
+Canada,2019,576.651
+China,1899,0.095
+China,1902,0.095
+China,1903,1.964
+China,1904,2.088
+China,1905,2.297
+China,1906,17.111
+China,1907,16.84
+China,1908,22.731
+China,1909,20.837
+China,1910,18.749
+China,1911,27.846
+China,1912,9.787
+China,1913,10.758
+China,1914,15.107
+China,1915,16.089
+China,1916,17.965
+China,1917,19.852
+China,1918,21.042
+China,1919,24.256
+China,1920,26.769
+China,1921,25.289
+China,1922,26.634
+China,1923,32.152
+China,1924,35.094
+China,1925,33.221
+China,1926,29.59
+China,1927,33.526
+China,1928,34.108
+China,1929,35.804
+China,1930,37.908
+China,1931,40.241
+China,1932,38.585
+China,1933,42.194
+China,1934,49.254
+China,1935,57.597
+China,1936,64.955
+China,1937,60.491
+China,1938,55.303
+China,1939,67.113
+China,1940,86.047
+China,1941,107.518
+China,1942,113.741
+China,1943,97.179
+China,1944,97.769
+China,1945,50.347
+China,1946,31.259
+China,1947,33.553
+China,1948,23.836
+China,1949,59.272
+China,1950,78.582
+China,1951,101.617
+China,1952,127.987
+China,1953,133.784
+China,1954,160.878
+China,1955,190.521
+China,1956,215.824
+China,1957,255.785
+China,1958,524.617
+China,1959,720.152
+China,1960,778.979
+China,1961,550.959
+China,1962,439.342
+China,1963,435.518
+China,1964,435.704
+China,1965,474.681
+China,1966,521.459
+China,1967,432.224
+China,1968,467.806
+China,1969,575.945
+China,1970,770.167
+China,1971,874.016
+China,1972,928.894
+China,1973,965.647
+China,1974,985.085
+China,1975,1142.102
+China,1976,1190.965
+China,1977,1304.403
+China,1978,1455.258
+China,1979,1487.113
+China,1980,1458.887
+China,1981,1442.782
+China,1982,1570.468
+China,1983,1655.81
+China,1984,1802.317
+China,1985,1951.773
+China,1986,2052.242
+China,1987,2191.053
+China,1988,2347.763
+China,1989,2386.885
+China,1990,2420.789
+China,1991,2538.03
+China,1992,2653.192
+China,1993,2835.795
+China,1994,3010.242
+China,1995,3265.057
+China,1996,3408.347
+China,1997,3414.549
+China,1998,3265.903
+China,1999,3258.135
+China,2000,3349.295
+China,2001,3426.144
+China,2002,3782.439
+China,2003,4452.31
+China,2004,5125.894
+China,2005,5771.168
+China,2006,6377.748
+China,2007,6861.751
+China,2008,7375.19
+China,2009,7758.812
+China,2010,8500.543
+China,2011,9388.199
+China,2012,9633.899
+China,2013,9796.527
+China,2014,9820.36
+China,2015,9683.201
+China,2016,9552.517
+China,2017,9750.726
+China,2018,9956.569
+China,2019,10174.681
+France,1802,2.239
+France,1804,2.176
+France,1810,2.121
+France,1811,2.052
+France,1812,2.217
+France,1813,2.048
+France,1814,2.092
+France,1815,2.341
+France,1816,2.499
+France,1817,2.66
+France,1818,2.382
+France,1819,2.557
+France,1820,2.902
+France,1821,3.012
+France,1822,3.169
+France,1823,3.169
+France,1824,3.517
+France,1825,3.957
+France,1826,4.089
+France,1827,5.91
+France,1828,6.243
+France,1829,6.075
+France,1830,6.551
+France,1831,6.053
+France,1832,6.679
+France,1833,7.247
+France,1834,8.922
+France,1835,9.259
+France,1836,10.637
+France,1837,11.351
+France,1838,11.868
+France,1839,11.571
+France,1840,11.798
+France,1841,13.821
+France,1842,14.528
+France,1843,14.55
+France,1844,15.261
+France,1845,17.836
+France,1846,18.529
+France,1847,20.841
+France,1848,16.69
+France,1849,17.386
+France,1850,19.617
+France,1851,20.038
+France,1852,21.57
+France,1853,25.34
+France,1854,29.213
+France,1855,33.071
+France,1856,34.632
+France,1857,35.281
+France,1858,34.595
+France,1859,34.991
+France,1860,38.131
+France,1861,41.242
+France,1862,43.525
+France,1863,44.188
+France,1864,46.83
+France,1865,49.303
+France,1866,53.56
+France,1867,54.278
+France,1868,55.532
+France,1869,56.942
+France,1870,50.538
+France,1871,50.263
+France,1872,60.925
+France,1873,65.849
+France,1874,62.643
+France,1875,65.26
+France,1876,65.358
+France,1877,63.926
+France,1878,65.223
+France,1879,67.498
+France,1880,76.149
+France,1881,77.985
+France,1882,82.308
+France,1883,86.32
+France,1884,82.913
+France,1885,79.714
+France,1886,79.073
+France,1887,83.29
+France,1888,86.654
+France,1889,88.797
+France,1890,97.818
+France,1891,97.983
+France,1892,98.122
+France,1893,96.33
+France,1894,101.9
+France,1895,102.775
+France,1896,106.282
+France,1897,111.261
+France,1898,115.046
+France,1899,120.3
+France,1900,129.277
+France,1901,125.005
+France,1902,117.662
+France,1903,129.343
+France,1904,125.998
+France,1905,127.427
+France,1906,136.568
+France,1907,145.596
+France,1908,146.714
+France,1909,150.096
+France,1910,150.612
+France,1911,156.907
+France,1912,158.578
+France,1913,171.112
+France,1914,118.351
+France,1915,103.233
+France,1916,109.689
+France,1917,121.604
+France,1918,108.451
+France,1919,116.141
+France,1920,151.778
+France,1921,137.909
+France,1922,163.151
+France,1923,184.189
+France,1924,206.635
+France,1925,213.827
+France,1926,213.732
+France,1927,213.04
+France,1928,211.619
+France,1929,234.282
+France,1930,237.634
+France,1931,217.494
+France,1932,191.775
+France,1933,199.387
+France,1934,201.35
+France,1935,195.372
+France,1936,198.079
+France,1937,217.705
+France,1938,201.798
+France,1939,194.617
+France,1940,137.737
+France,1941,119.909
+France,1942,122.496
+France,1943,125.246
+France,1944,79.986
+France,1945,107.166
+France,1946,165.245
+France,1947,183.624
+France,1948,196.501
+France,1949,229.051
+France,1950,202.429
+France,1951,228.916
+France,1952,227.188
+France,1953,214.739
+France,1954,226.568
+France,1955,239.231
+France,1956,268.77
+France,1957,277.841
+France,1958,266.487
+France,1959,262.289
+France,1960,271.361
+France,1961,281.373
+France,1962,298.867
+France,1963,334.226
+France,1964,345.538
+France,1965,352.112
+France,1966,347.605
+France,1967,372.475
+France,1968,385.101
+France,1969,413.759
+France,1970,439.625
+France,1971,463.131
+France,1972,481.588
+France,1973,517.542
+France,1974,499.968
+France,1975,447.748
+France,1976,506.615
+France,1977,481.908
+France,1978,506.741
+France,1979,530.281
+France,1980,506.255
+France,1981,455.65
+France,1982,438.056
+France,1983,423.997
+France,1984,407.341
+France,1985,402.488
+France,1986,387.446
+France,1987,379.709
+France,1988,374.675
+France,1989,392.925
+France,1990,400.983
+France,1991,426.501
+France,1992,415.709
+France,1993,394.973
+France,1994,390.815
+France,1995,397.456
+France,1996,413.197
+France,1997,406.187
+France,1998,425.465
+France,1999,421.705
+France,2000,416.266
+France,2001,420.848
+France,2002,415.838
+France,2003,422.641
+France,2004,423.631
+France,2005,426.779
+France,2006,416.004
+France,2007,405.194
+France,2008,397.725
+France,2009,381.599
+France,2010,389.386
+France,2011,362.504
+France,2012,363.809
+France,2013,365.831
+France,2014,333.922
+France,2015,338.501
+France,2016,341.026
+France,2017,345.921
+France,2018,331.725
+France,2019,323.747
+Germany,1792,0.469
+Germany,1793,0.48
+Germany,1794,0.443
+Germany,1795,0.447
+Germany,1796,0.535
+Germany,1797,0.55
+Germany,1798,0.575
+Germany,1799,0.627
+Germany,1800,0.795
+Germany,1801,0.535
+Germany,1802,0.553
+Germany,1803,0.535
+Germany,1804,1.008
+Germany,1805,1.041
+Germany,1806,0.938
+Germany,1807,2.689
+Germany,1808,0.898
+Germany,1809,0.931
+Germany,1810,0.978
+Germany,1811,0.927
+Germany,1812,0.912
+Germany,1813,0.89
+Germany,1814,0.883
+Germany,1815,1.03
+Germany,1816,2.385
+Germany,1817,3.382
+Germany,1818,3.532
+Germany,1819,3.276
+Germany,1820,3.382
+Germany,1821,3.532
+Germany,1822,3.631
+Germany,1823,4.034
+Germany,1824,3.232
+Germany,1825,4.338
+Germany,1826,4.188
+Germany,1827,4.54
+Germany,1828,4.54
+Germany,1829,3.631
+Germany,1830,4.793
+Germany,1831,4.591
+Germany,1832,3.448
+Germany,1833,4.378
+Germany,1834,4.411
+Germany,1835,4.932
+Germany,1836,5.192
+Germany,1837,5.95
+Germany,1838,6.632
+Germany,1839,7.02
+Germany,1840,9.175
+Germany,1841,9.548
+Germany,1842,10.882
+Germany,1843,10.3
+Germany,1844,10.882
+Germany,1845,12.611
+Germany,1846,13.187
+Germany,1847,13.839
+Germany,1848,12.828
+Germany,1849,13.623
+Germany,1850,15.14
+Germany,1851,16.869
+Germany,1852,19.174
+Germany,1853,20.76
+Germany,1854,24.366
+Germany,1855,28.616
+Germany,1856,30.924
+Germany,1857,32.939
+Germany,1858,35.61
+Germany,1859,33.808
+Germany,1860,36.395
+Germany,1861,41.33
+Germany,1862,45.54
+Germany,1863,49.383
+Germany,1864,56.642
+Germany,1865,63.468
+Germany,1866,62.907
+Germany,1867,69.154
+Germany,1868,74.368
+Germany,1869,77.593
+Germany,1870,76.64
+Germany,1871,85.349
+Germany,1872,92.109
+Germany,1873,98.367
+Germany,1874,71.595
+Germany,1875,101.518
+Germany,1876,103.438
+Germany,1877,101.302
+Germany,1878,104.545
+Germany,1879,110.847
+Germany,1880,124.503
+Germany,1881,134.264
+Germany,1882,143.665
+Germany,1883,153.093
+Germany,1884,157.526
+Germany,1885,161.183
+Germany,1886,163.033
+Germany,1887,170.391
+Germany,1888,186.347
+Germany,1889,198.849
+Germany,1890,208.232
+Germany,1891,220.84
+Germany,1892,214.989
+Germany,1893,220.712
+Germany,1894,229.498
+Germany,1895,238.285
+Germany,1896,256.26
+Germany,1897,273.554
+Germany,1898,285.378
+Germany,1899,303.284
+Germany,1900,326.759
+Germany,1901,325.557
+Germany,1902,319.189
+Germany,1903,343.599
+Germany,1904,356.122
+Germany,1905,382.324
+Germany,1906,361.937
+Germany,1907,442.183
+Germany,1908,446.642
+Germany,1909,445.572
+Germany,1910,445.367
+Germany,1911,458.586
+Germany,1912,499.121
+Germany,1913,535.083
+Germany,1914,497.927
+Germany,1915,462.906
+Germany,1916,500.697
+Germany,1917,524.579
+Germany,1918,503.423
+Germany,1919,387.428
+Germany,1920,429.208
+Germany,1921,473.18
+Germany,1922,455.461
+Germany,1923,331.929
+Germany,1924,451.793
+Germany,1925,458.066
+Germany,1926,413.237
+Germany,1927,481.043
+Germany,1928,504.857
+Germany,1929,538.942
+Germany,1930,461.711
+Germany,1931,385.58
+Germany,1932,347.306
+Germany,1933,364.838
+Germany,1934,408.62
+Germany,1935,452.333
+Germany,1936,499.634
+Germany,1937,563.513
+Germany,1938,601.273
+Germany,1939,648.625
+Germany,1940,654.325
+Germany,1941,660.793
+Germany,1942,667.899
+Germany,1943,679.43
+Germany,1944,600.273
+Germany,1945,116.065
+Germany,1946,271.682
+Germany,1947,317.66
+Germany,1948,377.816
+Germany,1949,432.148
+Germany,1950,510.682
+Germany,1951,576.866
+Germany,1952,610.981
+Germany,1953,623.492
+Germany,1954,659.732
+Germany,1955,723.498
+Germany,1956,766.191
+Germany,1957,777.908
+Germany,1958,756.379
+Germany,1959,755.795
+Germany,1960,813.95
+Germany,1961,834.84
+Germany,1962,883.169
+Germany,1963,945.498
+Germany,1964,968.917
+Germany,1965,960.102
+Germany,1966,951.422
+Germany,1967,936.229
+Germany,1968,984.791
+Germany,1969,1052.001
+Germany,1970,1026.022
+Germany,1971,1037.236
+Germany,1972,1041.48
+Germany,1973,1085.736
+Germany,1974,1062.724
+Germany,1975,1002.444
+Germany,1976,1090.837
+Germany,1977,1052.604
+Germany,1978,1079.127
+Germany,1979,1117.882
+Germany,1980,1100.059
+Germany,1981,1048.517
+Germany,1982,1015.727
+Germany,1983,1011.597
+Germany,1984,1033.237
+Germany,1985,1044.11
+Germany,1986,1047.463
+Germany,1987,1032.434
+Germany,1988,1029.014
+Germany,1989,1008.781
+Germany,1990,1052.349
+Germany,1991,1014.2
+Germany,1992,965.89
+Germany,1993,956.233
+Germany,1994,939.63
+Germany,1995,939.177
+Germany,1996,959.124
+Germany,1997,931.23
+Germany,1998,923.276
+Germany,1999,895.643
+Germany,2000,899.78
+Germany,2001,916.366
+Germany,2002,899.821
+Germany,2003,900.866
+Germany,2004,886.966
+Germany,2005,866.389
+Germany,2006,877.997
+Germany,2007,851.383
+Germany,2008,854.706
+Germany,2009,790.196
+Germany,2010,832.67
+Germany,2011,809.427
+Germany,2012,813.893
+Germany,2013,831.316
+Germany,2014,792.685
+Germany,2015,795.816
+Germany,2016,800.51
+Germany,2017,786.655
+Germany,2018,755.362
+Germany,2019,701.955
+India,1858,0.395
+India,1859,0.638
+India,1860,0.644
+India,1861,0.498
+India,1862,0.551
+India,1863,0.611
+India,1864,0.578
+India,1865,0.568
+India,1866,0.641
+India,1878,1.77
+India,1879,1.687
+India,1880,1.89
+India,1881,1.843
+India,1882,2.2
+India,1883,2.445
+India,1884,2.735
+India,1885,2.464
+India,1886,2.777
+India,1887,3.071
+India,1888,3.415
+India,1889,4.028
+India,1890,4.439
+India,1891,4.78
+India,1892,5.256
+India,1893,5.552
+India,1894,5.626
+India,1895,7.046
+India,1896,7.621
+India,1897,8.267
+India,1898,9.14
+India,1899,10.071
+India,1900,11.95
+India,1901,13.201
+India,1902,14.54
+India,1903,14.827
+India,1904,16.588
+India,1905,16.958
+India,1906,19.582
+India,1907,21.809
+India,1908,24.95
+India,1909,24.182
+India,1910,23.527
+India,1911,24.824
+India,1912,28.57
+India,1913,31.52
+India,1914,31.752
+India,1915,33.198
+India,1916,33.574
+India,1917,35.08
+India,1918,39.427
+India,1919,43.049
+India,1920,34.927
+India,1921,37.569
+India,1922,36.966
+India,1923,38.036
+India,1924,40.697
+India,1925,40.154
+India,1926,40.012
+India,1927,41.956
+India,1928,40.147
+India,1929,41.785
+India,1930,42.478
+India,1931,38.922
+India,1932,36.196
+India,1933,35.532
+India,1934,39.683
+India,1935,41.469
+India,1936,40.759
+India,1937,45.149
+India,1938,50.473
+India,1939,49.403
+India,1940,52.406
+India,1941,53.678
+India,1942,53.626
+India,1943,46.728
+India,1944,47.782
+India,1945,52.97
+India,1946,52.32
+India,1947,53.278
+India,1948,53.301
+India,1949,56.29
+India,1950,61.202
+India,1951,64.125
+India,1952,67.536
+India,1953,68.816
+India,1954,72.528
+India,1955,78.908
+India,1956,81.779
+India,1957,91.773
+India,1958,95.959
+India,1959,101.597
+India,1960,111.491
+India,1961,120.583
+India,1962,132.776
+India,1963,142.652
+India,1964,139.688
+India,1965,153.921
+India,1966,159.594
+India,1967,159.78
+India,1968,174.303
+India,1969,177.646
+India,1970,181.956
+India,1971,192.203
+India,1972,203.289
+India,1973,209.355
+India,1974,216.128
+India,1975,234.513
+India,1976,245.068
+India,1977,259.296
+India,1978,263.479
+India,1979,276.625
+India,1980,292.083
+India,1981,315.363
+India,1982,325.782
+India,1983,352.637
+India,1984,361.996
+India,1985,398.07
+India,1986,426.825
+India,1987,455.894
+India,1988,492.291
+India,1989,541.292
+India,1990,578.687
+India,1991,616.106
+India,1992,656.223
+India,1993,678.116
+India,1994,717.127
+India,1995,762.338
+India,1996,826.151
+India,1997,859.929
+India,1998,877.939
+India,1999,951.671
+India,2000,978.427
+India,2001,992.529
+India,2002,1022.849
+India,2003,1059.416
+India,2004,1125.264
+India,2005,1185.761
+India,2006,1259.522
+India,2007,1357.916
+India,2008,1462.574
+India,2009,1612.515
+India,2010,1678.479
+India,2011,1766.065
+India,2012,1941.313
+India,2013,2033.412
+India,2014,2184.432
+India,2015,2253.429
+India,2016,2392.36
+India,2017,2456.848
+India,2018,2591.324
+India,2019,2616.449
+Indonesia,1889,0.004
+Indonesia,1890,0.015
+Indonesia,1891,0.022
+Indonesia,1892,0.18
+Indonesia,1893,0.403
+Indonesia,1894,0.48
+Indonesia,1895,0.769
+Indonesia,1896,0.861
+Indonesia,1897,1.107
+Indonesia,1898,1.29
+Indonesia,1899,1.125
+Indonesia,1900,1.209
+Indonesia,1901,2.242
+Indonesia,1902,1.539
+Indonesia,1903,3.001
+Indonesia,1904,3.367
+Indonesia,1905,4.133
+Indonesia,1906,4.452
+Indonesia,1907,5.294
+Indonesia,1908,5.492
+Indonesia,1909,5.987
+Indonesia,1910,6.112
+Indonesia,1911,6.727
+Indonesia,1912,5.84
+Indonesia,1913,5.899
+Indonesia,1914,6.016
+Indonesia,1915,6.031
+Indonesia,1916,6.764
+Indonesia,1917,7.137
+Indonesia,1918,7.13
+Indonesia,1919,7.636
+Indonesia,1920,8.262
+Indonesia,1921,8.757
+Indonesia,1922,8.299
+Indonesia,1923,9.589
+Indonesia,1924,10.585
+Indonesia,1925,11.08
+Indonesia,1926,11.098
+Indonesia,1927,12.886
+Indonesia,1928,14.832
+Indonesia,1929,18.539
+Indonesia,1930,18.085
+Indonesia,1931,16.894
+Indonesia,1932,16.587
+Indonesia,1933,17.862
+Indonesia,1934,19.236
+Indonesia,1935,20.001
+Indonesia,1936,21.767
+Indonesia,1937,25.344
+Indonesia,1938,26.733
+Indonesia,1939,29.201
+Indonesia,1940,28.733
+Indonesia,1941,26.486
+Indonesia,1942,9.457
+Indonesia,1943,19.027
+Indonesia,1944,8.772
+Indonesia,1945,3.807
+Indonesia,1946,1.345
+Indonesia,1947,4.056
+Indonesia,1948,15.495
+Indonesia,1949,21.903
+Indonesia,1950,9.831
+Indonesia,1951,9.39
+Indonesia,1952,12.721
+Indonesia,1953,13.08
+Indonesia,1954,14.747
+Indonesia,1955,20.844
+Indonesia,1956,21.811
+Indonesia,1957,22.412
+Indonesia,1958,22.206
+Indonesia,1959,23.862
+Indonesia,1960,21.385
+Indonesia,1961,26.002
+Indonesia,1962,22.975
+Indonesia,1963,22.763
+Indonesia,1964,22.374
+Indonesia,1965,24.668
+Indonesia,1966,23.375
+Indonesia,1967,24.54
+Indonesia,1968,27.563
+Indonesia,1969,33.362
+Indonesia,1970,35.791
+Indonesia,1971,38.955
+Indonesia,1972,43.306
+Indonesia,1973,49.098
+Indonesia,1974,51.227
+Indonesia,1975,53.933
+Indonesia,1976,61.788
+Indonesia,1977,82.416
+Indonesia,1978,93.938
+Indonesia,1979,95.137
+Indonesia,1980,94.873
+Indonesia,1981,100.297
+Indonesia,1982,105.584
+Indonesia,1983,105.184
+Indonesia,1984,112.461
+Indonesia,1985,121.598
+Indonesia,1986,122.166
+Indonesia,1987,123.879
+Indonesia,1988,132.722
+Indonesia,1989,131.674
+Indonesia,1990,150.286
+Indonesia,1991,180.622
+Indonesia,1992,203.577
+Indonesia,1993,219.762
+Indonesia,1994,222.854
+Indonesia,1995,226.545
+Indonesia,1996,255.069
+Indonesia,1997,280.736
+Indonesia,1998,215.97
+Indonesia,1999,243.952
+Indonesia,2000,265.803
+Indonesia,2001,297.53
+Indonesia,2002,307.361
+Indonesia,2003,316.655
+Indonesia,2004,339.848
+Indonesia,2005,343.336
+Indonesia,2006,346.443
+Indonesia,2007,376.865
+Indonesia,2008,417.562
+Indonesia,2009,447.099
+Indonesia,2010,428.174
+Indonesia,2011,508.073
+Indonesia,2012,526.383
+Indonesia,2013,411.191
+Indonesia,2014,416.823
+Indonesia,2015,507.012
+Indonesia,2016,568.194
+Indonesia,2017,531.012
+Indonesia,2018,576.584
+Indonesia,2019,617.513
+Italy,1860,0.029
+Italy,1861,0.671
+Italy,1862,1.227
+Italy,1863,1.07
+Italy,1864,1.605
+Italy,1865,1.271
+Italy,1866,1.477
+Italy,1867,1.469
+Italy,1868,1.696
+Italy,1869,1.872
+Italy,1870,2.678
+Italy,1871,2.308
+Italy,1872,2.975
+Italy,1873,2.77
+Italy,1874,2.997
+Italy,1875,3.067
+Italy,1876,4.107
+Italy,1877,3.803
+Italy,1878,3.785
+Italy,1879,4.356
+Italy,1880,5.067
+Italy,1881,5.958
+Italy,1882,6.273
+Italy,1883,6.646
+Italy,1884,7.361
+Italy,1885,8.376
+Italy,1886,8.328
+Italy,1887,10.149
+Italy,1888,10.897
+Italy,1889,11.256
+Italy,1890,12.208
+Italy,1891,10.999
+Italy,1892,10.889
+Italy,1893,10.523
+Italy,1894,13.062
+Italy,1895,12.022
+Italy,1896,11.424
+Italy,1897,11.919
+Italy,1898,12.403
+Italy,1899,13.59
+Italy,1900,13.909
+Italy,1901,13.52
+Italy,1902,15.015
+Italy,1903,15.316
+Italy,1904,16.188
+Italy,1905,17.844
+Italy,1906,21.09
+Italy,1907,22.808
+Italy,1908,23.263
+Italy,1909,25.703
+Italy,1910,25.736
+Italy,1911,26.538
+Italy,1912,27.85
+Italy,1913,29.964
+Italy,1914,27.238
+Italy,1915,23.779
+Italy,1916,23.512
+Italy,1917,16.122
+Italy,1918,18.98
+Italy,1919,18.609
+Italy,1920,17.869
+Italy,1921,21.881
+Italy,1922,25.699
+Italy,1923,26.824
+Italy,1924,32.181
+Italy,1925,30.968
+Italy,1926,35.841
+Italy,1927,40.385
+Italy,1928,38.148
+Italy,1929,44.027
+Italy,1930,39.55
+Italy,1931,34.173
+Italy,1932,28.065
+Italy,1933,30.474
+Italy,1934,39.661
+Italy,1935,45.376
+Italy,1936,31.99
+Italy,1937,45.174
+Italy,1938,44.979
+Italy,1939,46.12
+Italy,1940,49.031
+Italy,1941,42.894
+Italy,1942,41.889
+Italy,1943,7.112
+Italy,1944,3.578
+Italy,1945,4.352
+Italy,1946,22.166
+Italy,1947,36.786
+Italy,1948,35.528
+Italy,1949,39.771
+Italy,1950,41.431
+Italy,1951,48.822
+Italy,1952,50.621
+Italy,1953,55.995
+Italy,1954,64.938
+Italy,1955,73.266
+Italy,1956,83.475
+Italy,1957,87.078
+Italy,1958,87.598
+Italy,1959,94.085
+Italy,1960,109.203
+Italy,1961,124.375
+Italy,1962,146.255
+Italy,1963,164.556
+Italy,1964,175.721
+Italy,1965,189.528
+Italy,1966,213.982
+Italy,1967,234.13
+Italy,1968,249.172
+Italy,1969,269.661
+Italy,1970,296.365
+Italy,1971,311.049
+Italy,1972,328.238
+Italy,1973,353.349
+Italy,1974,358.253
+Italy,1975,341.053
+Italy,1976,365.796
+Italy,1977,354.418
+Italy,1978,371.274
+Italy,1979,385.256
+Italy,1980,386.433
+Italy,1981,375.301
+Italy,1982,366.88
+Italy,1983,358.41
+Italy,1984,364.602
+Italy,1985,368.983
+Italy,1986,363.188
+Italy,1987,380.099
+Italy,1988,385.963
+Italy,1989,404.743
+Italy,1990,438.009
+Italy,1991,437.539
+Italy,1992,437.83
+Italy,1993,430.18
+Italy,1994,424.582
+Italy,1995,448.333
+Italy,1996,442.277
+Italy,1997,448.045
+Italy,1998,460.049
+Italy,1999,464.548
+Italy,2000,468.442
+Italy,2001,468.643
+Italy,2002,476.251
+Italy,2003,494.183
+Italy,2004,499.619
+Italy,2005,500.006
+Italy,2006,495.124
+Italy,2007,487.693
+Italy,2008,476.23
+Italy,2009,422.624
+Italy,2010,433.688
+Italy,2011,422.039
+Italy,2012,401.555
+Italy,2013,367.569
+Italy,2014,347.861
+Italy,2015,360.088
+Italy,2016,356.556
+Italy,2017,351.474
+Italy,2018,348.085
+Italy,2019,337.086
+Japan,1868,0.011
+Japan,1869,0.018
+Japan,1870,0.018
+Japan,1871,0.026
+Japan,1872,0.033
+Japan,1873,0.04
+Japan,1874,0.586
+Japan,1875,1.44
+Japan,1876,1.403
+Japan,1877,1.29
+Japan,1878,1.858
+Japan,1879,2.316
+Japan,1880,2.349
+Japan,1881,2.415
+Japan,1882,2.514
+Japan,1883,2.711
+Japan,1884,2.957
+Japan,1885,3.349
+Japan,1886,3.605
+Japan,1887,4.474
+Japan,1888,5.17
+Japan,1889,6.254
+Japan,1890,6.756
+Japan,1891,8.123
+Japan,1892,8.075
+Japan,1893,8.574
+Japan,1894,11.025
+Japan,1895,12.227
+Japan,1896,12.916
+Japan,1897,13.542
+Japan,1898,17.246
+Japan,1899,17.272
+Japan,1900,19.412
+Japan,1901,23.274
+Japan,1902,24.945
+Japan,1903,25.787
+Japan,1904,29.052
+Japan,1905,29.931
+Japan,1906,32.855
+Japan,1907,35.072
+Japan,1908,37.633
+Japan,1909,38.256
+Japan,1910,39.384
+Japan,1911,44.21
+Japan,1912,49.281
+Japan,1913,54.315
+Japan,1914,58.016
+Japan,1915,52.842
+Japan,1916,58.598
+Japan,1917,67.484
+Japan,1918,71.543
+Japan,1919,79.194
+Japan,1920,74.28
+Japan,1921,66.809
+Japan,1922,71.43
+Japan,1923,75.907
+Japan,1924,79.348
+Japan,1925,82.011
+Japan,1926,82.605
+Japan,1927,89.482
+Japan,1928,92.391
+Japan,1929,94.88
+Japan,1930,86.166
+Japan,1931,77.904
+Japan,1932,77.981
+Japan,1933,91.342
+Japan,1934,101.203
+Japan,1935,106.382
+Japan,1936,116.849
+Japan,1937,125.431
+Japan,1938,131.735
+Japan,1939,127.747
+Japan,1940,153.244
+Japan,1941,154.605
+Japan,1942,147.792
+Japan,1943,150.637
+Japan,1944,138.733
+Japan,1945,76.635
+Japan,1946,52.707
+Japan,1947,70.032
+Japan,1948,88.082
+Japan,1949,98.42
+Japan,1950,102.541
+Japan,1951,123.458
+Japan,1952,130.406
+Japan,1953,145.77
+Japan,1954,142.534
+Japan,1955,141.875
+Japan,1956,160.636
+Japan,1957,188.067
+Japan,1958,181.161
+Japan,1959,192.62
+Japan,1960,232.5
+Japan,1961,282.787
+Japan,1962,292.864
+Japan,1963,324.835
+Japan,1964,358.891
+Japan,1965,386.471
+Japan,1966,419.245
+Japan,1967,489.307
+Japan,1968,561.913
+Japan,1969,653.215
+Japan,1970,767.963
+Japan,1971,796.544
+Japan,1972,852.17
+Japan,1973,914.266
+Japan,1974,914.307
+Japan,1975,868.511
+Japan,1976,907.145
+Japan,1977,933.239
+Japan,1978,901.591
+Japan,1979,953.073
+Japan,1980,944.87
+Japan,1981,926.837
+Japan,1982,897.41
+Japan,1983,880.912
+Japan,1984,937.072
+Japan,1985,912.403
+Japan,1986,912.262
+Japan,1987,902.533
+Japan,1988,985.467
+Japan,1989,1021.685
+Japan,1990,1158.391
+Japan,1991,1170.066
+Japan,1992,1179.74
+Japan,1993,1172.647
+Japan,1994,1227.567
+Japan,1995,1239.928
+Japan,1996,1251.868
+Japan,1997,1245.112
+Japan,1998,1205.416
+Japan,1999,1242.015
+Japan,2000,1264.844
+Japan,2001,1250.211
+Japan,2002,1279.453
+Japan,2003,1287.642
+Japan,2004,1282.872
+Japan,2005,1290.056
+Japan,2006,1266.829
+Japan,2007,1302.524
+Japan,2008,1231.91
+Japan,2009,1162.648
+Japan,2010,1214.069
+Japan,2011,1264.155
+Japan,2012,1305.433
+Japan,2013,1314.703
+Japan,2014,1263.05
+Japan,2015,1222.781
+Japan,2016,1203.167
+Japan,2017,1187.661
+Japan,2018,1135.688
+Japan,2019,1106.664
+Malaysia,1890,0.007
+Malaysia,1891,0.018
+Malaysia,1892,0.048
+Malaysia,1893,0.011
+Malaysia,1894,0.048
+Malaysia,1895,0.11
+Malaysia,1896,0.125
+Malaysia,1897,0.092
+Malaysia,1898,0.128
+Malaysia,1899,0.121
+Malaysia,1900,0.059
+Malaysia,1901,0.048
+Malaysia,1902,0.051
+Malaysia,1903,0.051
+Malaysia,1904,0.033
+Malaysia,1905,0.04
+Malaysia,1906,0.037
+Malaysia,1907,0.088
+Malaysia,1908,0.092
+Malaysia,1909,0.169
+Malaysia,1910,0.234
+Malaysia,1911,
+Malaysia,1912,0.018
+Malaysia,1913,0.062
+Malaysia,1914,0.147
+Malaysia,1915,0.205
+Malaysia,1916,0.55
+Malaysia,1917,0.652
+Malaysia,1918,0.671
+Malaysia,1919,0.769
+Malaysia,1920,1.11
+Malaysia,1921,1.414
+Malaysia,1922,2.004
+Malaysia,1923,2.583
+Malaysia,1924,2.506
+Malaysia,1925,2.964
+Malaysia,1926,3.4
+Malaysia,1927,3.378
+Malaysia,1928,3.807
+Malaysia,1929,4.115
+Malaysia,1930,3.671
+Malaysia,1931,2.708
+Malaysia,1932,1.795
+Malaysia,1933,1.59
+Malaysia,1934,1.733
+Malaysia,1935,1.806
+Malaysia,1936,2.048
+Malaysia,1937,2.345
+Malaysia,1938,1.913
+Malaysia,1939,1.704
+Malaysia,1940,2.568
+Malaysia,1941,2.184
+Malaysia,1942,0.66
+Malaysia,1943,1.319
+Malaysia,1944,1.103
+Malaysia,1945,0.612
+Malaysia,1946,0.605
+Malaysia,1947,0.685
+Malaysia,1948,1.19
+Malaysia,1949,1.22
+Malaysia,1950,3.655
+Malaysia,1951,5.22
+Malaysia,1952,6.371
+Malaysia,1953,6.499
+Malaysia,1954,7.004
+Malaysia,1955,7.43
+Malaysia,1956,7.563
+Malaysia,1957,3.513
+Malaysia,1958,3.832
+Malaysia,1959,3.183
+Malaysia,1960,4.201
+Malaysia,1961,4.685
+Malaysia,1962,4.777
+Malaysia,1963,5.828
+Malaysia,1964,7.399
+Malaysia,1965,8.38
+Malaysia,1966,9.834
+Malaysia,1967,10.128
+Malaysia,1968,10.53
+Malaysia,1969,9.138
+Malaysia,1970,14.586
+Malaysia,1971,16.663
+Malaysia,1972,17.901
+Malaysia,1973,17.505
+Malaysia,1974,19.045
+Malaysia,1975,19.445
+Malaysia,1976,23.898
+Malaysia,1977,22.621
+Malaysia,1978,23.26
+Malaysia,1979,27.306
+Malaysia,1980,28.032
+Malaysia,1981,30.877
+Malaysia,1982,30.642
+Malaysia,1983,38.048
+Malaysia,1984,34.794
+Malaysia,1985,36.329
+Malaysia,1986,40.101
+Malaysia,1987,40.877
+Malaysia,1988,42.869
+Malaysia,1989,50.083
+Malaysia,1990,55.277
+Malaysia,1991,66.73
+Malaysia,1992,72.961
+Malaysia,1993,86.719
+Malaysia,1994,90.224
+Malaysia,1995,113.934
+Malaysia,1996,112.899
+Malaysia,1997,120.817
+Malaysia,1998,114.238
+Malaysia,1999,108.291
+Malaysia,2000,126.514
+Malaysia,2001,134.948
+Malaysia,2002,136.338
+Malaysia,2003,157.266
+Malaysia,2004,171.695
+Malaysia,2005,181.755
+Malaysia,2006,178.93
+Malaysia,2007,182.832
+Malaysia,2008,202.498
+Malaysia,2009,196.948
+Malaysia,2010,216.537
+Malaysia,2011,217.427
+Malaysia,2012,215.812
+Malaysia,2013,234.419
+Malaysia,2014,241.128
+Malaysia,2015,233.268
+Malaysia,2016,246.722
+Malaysia,2017,248.87
+Malaysia,2018,249.144
+Malaysia,2019,250.095
+Mexico,1891,0.52
+Mexico,1892,0.579
+Mexico,1893,0.531
+Mexico,1894,0.539
+Mexico,1895,0.495
+Mexico,1896,0.579
+Mexico,1897,0.689
+Mexico,1898,0.736
+Mexico,1899,0.755
+Mexico,1900,1
+Mexico,1901,1.312
+Mexico,1902,1.425
+Mexico,1903,1.557
+Mexico,1904,1.718
+Mexico,1905,1.707
+Mexico,1906,1.92
+Mexico,1907,2.264
+Mexico,1908,3.77
+Mexico,1909,3.693
+Mexico,1910,4.155
+Mexico,1911,8.402
+Mexico,1912,8.632
+Mexico,1913,11.743
+Mexico,1914,10.142
+Mexico,1915,14.315
+Mexico,1916,17.184
+Mexico,1917,26.132
+Mexico,1918,30.642
+Mexico,1919,41.084
+Mexico,1920,76.237
+Mexico,1921,90.288
+Mexico,1922,85.551
+Mexico,1923,72.038
+Mexico,1924,67.872
+Mexico,1925,57.085
+Mexico,1926,44.686
+Mexico,1927,31.796
+Mexico,1928,24.083
+Mexico,1929,22.148
+Mexico,1930,20.379
+Mexico,1931,16.752
+Mexico,1932,16.195
+Mexico,1933,16.741
+Mexico,1934,18.892
+Mexico,1935,21.426
+Mexico,1936,21.961
+Mexico,1937,24.903
+Mexico,1938,24.265
+Mexico,1939,22.664
+Mexico,1940,23.209
+Mexico,1941,22.546
+Mexico,1942,18.977
+Mexico,1943,19.058
+Mexico,1944,20.124
+Mexico,1945,22.615
+Mexico,1946,25.623
+Mexico,1947,29.352
+Mexico,1948,30.509
+Mexico,1949,28.959
+Mexico,1950,30.508
+Mexico,1951,34.889
+Mexico,1952,37.212
+Mexico,1953,36.707
+Mexico,1954,36.27
+Mexico,1955,39.662
+Mexico,1956,42.134
+Mexico,1957,49.278
+Mexico,1958,54.008
+Mexico,1959,58.287
+Mexico,1960,63.052
+Mexico,1961,65.24
+Mexico,1962,63.744
+Mexico,1963,66.292
+Mexico,1964,74.2
+Mexico,1965,75.168
+Mexico,1966,80.845
+Mexico,1967,90.006
+Mexico,1968,93.887
+Mexico,1969,102.176
+Mexico,1970,113.951
+Mexico,1971,126.19
+Mexico,1972,132.279
+Mexico,1973,144.072
+Mexico,1974,154.747
+Mexico,1975,164.165
+Mexico,1976,183.774
+Mexico,1977,192.436
+Mexico,1978,222.167
+Mexico,1979,240.321
+Mexico,1980,267.818
+Mexico,1981,283.797
+Mexico,1982,304.01
+Mexico,1983,277.667
+Mexico,1984,276.766
+Mexico,1985,287.511
+Mexico,1986,293.556
+Mexico,1987,306.194
+Mexico,1988,305.849
+Mexico,1989,360.555
+Mexico,1990,317.042
+Mexico,1991,330.133
+Mexico,1992,332.78
+Mexico,1993,338.067
+Mexico,1994,351.528
+Mexico,1995,331.597
+Mexico,1996,345.766
+Mexico,1997,368.645
+Mexico,1998,388.357
+Mexico,1999,390.516
+Mexico,2000,396.066
+Mexico,2001,410.698
+Mexico,2002,411.968
+Mexico,2003,437.758
+Mexico,2004,438.857
+Mexico,2005,463.993
+Mexico,2006,476.565
+Mexico,2007,479.787
+Mexico,2008,492.98
+Mexico,2009,475.903
+Mexico,2010,463.783
+Mexico,2011,484.165
+Mexico,2012,496.3
+Mexico,2013,490.13
+Mexico,2014,481.129
+Mexico,2015,481.975
+Mexico,2016,484.629
+Mexico,2017,461.238
+Mexico,2018,451.081
+Mexico,2019,438.498
+Philippines,1907,0.007
+Philippines,1908,0.018
+Philippines,1909,0.055
+Philippines,1910,0.051
+Philippines,1911,0.037
+Philippines,1912,0.004
+Philippines,1913,0.007
+Philippines,1914,0.018
+Philippines,1915,0.055
+Philippines,1916,0.051
+Philippines,1917,0.011
+Philippines,1918,0.029
+Philippines,1919,0.059
+Philippines,1920,0.103
+Philippines,1921,0.07
+Philippines,1922,0.077
+Philippines,1923,0.077
+Philippines,1924,0.084
+Philippines,1925,0.084
+Philippines,1926,0.051
+Philippines,1927,0.04
+Philippines,1928,0.08
+Philippines,1929,0.069
+Philippines,1930,0.088
+Philippines,1931,0.08
+Philippines,1932,0.087
+Philippines,1933,0.077
+Philippines,1934,0.088
+Philippines,1935,0.098
+Philippines,1936,0.12
+Philippines,1937,0.12
+Philippines,1938,0.157
+Philippines,1939,0.084
+Philippines,1940,0.114
+Philippines,1941,0.091
+Philippines,1945,0.015
+Philippines,1946,0.113
+Philippines,1947,0.197
+Philippines,1948,0.216
+Philippines,1949,0.318
+Philippines,1950,3.604
+Philippines,1951,3.553
+Philippines,1952,4.051
+Philippines,1953,4.033
+Philippines,1954,5.33
+Philippines,1955,6.616
+Philippines,1956,6.253
+Philippines,1957,6.729
+Philippines,1958,7.56
+Philippines,1959,7.226
+Philippines,1960,8.325
+Philippines,1961,8.713
+Philippines,1962,10.336
+Philippines,1963,11.472
+Philippines,1964,12.823
+Philippines,1965,13.965
+Philippines,1966,16.104
+Philippines,1967,18.209
+Philippines,1968,22.223
+Philippines,1969,22.829
+Philippines,1970,24.751
+Philippines,1971,27.552
+Philippines,1972,26.409
+Philippines,1973,31.501
+Philippines,1974,30.492
+Philippines,1975,32.482
+Philippines,1976,35.066
+Philippines,1977,36.676
+Philippines,1978,37.38
+Philippines,1979,38.031
+Philippines,1980,36.869
+Philippines,1981,34.528
+Philippines,1982,34.839
+Philippines,1983,35.239
+Philippines,1984,30.831
+Philippines,1985,27.899
+Philippines,1986,29.025
+Philippines,1987,32.496
+Philippines,1988,37.485
+Philippines,1989,38.907
+Philippines,1990,41.349
+Philippines,1991,43.471
+Philippines,1992,48.294
+Philippines,1993,48.929
+Philippines,1994,54.123
+Philippines,1995,59.949
+Philippines,1996,61.254
+Philippines,1997,70.063
+Philippines,1998,68.253
+Philippines,1999,68.177
+Philippines,2000,72.346
+Philippines,2001,70.305
+Philippines,2002,70.155
+Philippines,2003,70.215
+Philippines,2004,72.771
+Philippines,2005,73.271
+Philippines,2006,66.522
+Philippines,2007,70.764
+Philippines,2008,77.3
+Philippines,2009,76.493
+Philippines,2010,82.951
+Philippines,2011,83.744
+Philippines,2012,88.407
+Philippines,2013,95.793
+Philippines,2014,101.182
+Philippines,2015,112.142
+Philippines,2016,122.237
+Philippines,2017,134.519
+Philippines,2018,138.924
+Philippines,2019,144.263
+Russia,1830,0.011
+Russia,1831,0.013
+Russia,1832,0.009
+Russia,1833,0.011
+Russia,1834,
+Russia,1835,
+Russia,1836,
+Russia,1837,
+Russia,1838,
+Russia,1839,
+Russia,1840,
+Russia,1841,
+Russia,1842,
+Russia,1843,
+Russia,1844,
+Russia,1845,
+Russia,1846,
+Russia,1847,
+Russia,1848,
+Russia,1849,
+Russia,1850,0.07
+Russia,1851,
+Russia,1852,
+Russia,1853,
+Russia,1854,
+Russia,1855,0.211
+Russia,1856,
+Russia,1857,
+Russia,1858,0.296
+Russia,1859,0.314
+Russia,1860,0.415
+Russia,1861,0.527
+Russia,1862,0.476
+Russia,1863,0.498
+Russia,1864,0.559
+Russia,1865,0.534
+Russia,1866,1.687
+Russia,1867,1.936
+Russia,1868,1.611
+Russia,1869,2.185
+Russia,1870,2.372
+Russia,1871,3.202
+Russia,1872,3.287
+Russia,1873,3.085
+Russia,1874,3.745
+Russia,1875,4.31
+Russia,1876,5.351
+Russia,1877,5.461
+Russia,1878,7.138
+Russia,1879,7.324
+Russia,1880,8.592
+Russia,1881,9.049
+Russia,1882,9.532
+Russia,1883,10.849
+Russia,1884,11.015
+Russia,1885,11.998
+Russia,1886,12.305
+Russia,1887,13.021
+Russia,1888,13.582
+Russia,1889,14.668
+Russia,1890,16.611
+Russia,1891,18.289
+Russia,1892,19.36
+Russia,1893,22.692
+Russia,1894,23.111
+Russia,1895,26.555
+Russia,1896,27.033
+Russia,1897,31.256
+Russia,1898,35.055
+Russia,1899,40.667
+Russia,1900,46.068
+Russia,1901,47.295
+Russia,1902,45.679
+Russia,1903,44.683
+Russia,1904,49.714
+Russia,1905,44.376
+Russia,1906,50.616
+Russia,1907,56.694
+Russia,1908,57.042
+Russia,1909,60.215
+Russia,1910,59.052
+Russia,1911,61.224
+Russia,1912,69.354
+Russia,1913,75.34
+Russia,1914,67.996
+Russia,1915,62.411
+Russia,1916,66.52
+Russia,1917,61.22
+Russia,1918,24.415
+Russia,1919,20.854
+Russia,1920,19.016
+Russia,1921,20.623
+Russia,1922,25.151
+Russia,1923,27.783
+Russia,1924,33.101
+Russia,1925,32.67
+Russia,1926,47.335
+Russia,1927,58.85
+Russia,1928,65.356
+Russia,1929,70.381
+Russia,1930,95.687
+Russia,1931,114.959
+Russia,1932,129.522
+Russia,1933,144.764
+Russia,1934,175.105
+Russia,1935,198.201
+Russia,1936,227.265
+Russia,1937,232.395
+Russia,1938,245.283
+Russia,1939,248.292
+Russia,1940,297.682
+Russia,1941,261.518
+Russia,1942,142.21
+Russia,1943,148.419
+Russia,1944,215.235
+Russia,1945,227.85
+Russia,1946,256.049
+Russia,1947,308.317
+Russia,1948,328.066
+Russia,1949,372.927
+Russia,1950,415.674
+Russia,1951,450.491
+Russia,1952,482.404
+Russia,1953,510.352
+Russia,1954,557.375
+Russia,1955,632.007
+Russia,1956,692.938
+Russia,1957,758.277
+Russia,1958,809.351
+Russia,1959,850.894
+Russia,1960,885.861
+Russia,1961,913.525
+Russia,1962,958.757
+Russia,1963,1028.218
+Russia,1964,1093.519
+Russia,1965,1159.985
+Russia,1966,1224.976
+Russia,1967,1280.896
+Russia,1968,1316.893
+Russia,1969,1371.484
+Russia,1970,1442.53
+Russia,1971,1530.889
+Russia,1972,1610.796
+Russia,1973,1678.915
+Russia,1974,1742.934
+Russia,1975,1832.155
+Russia,1976,1902.632
+Russia,1977,1967.275
+Russia,1978,2034.807
+Russia,1979,2051.615
+Russia,1980,2132.301
+Russia,1981,2091.653
+Russia,1982,2131.136
+Russia,1983,2161.338
+Russia,1984,2180.496
+Russia,1985,2351.675
+Russia,1986,2357.643
+Russia,1987,2347.912
+Russia,1988,2410.627
+Russia,1989,2356.63
+Russia,1990,2525.294
+Russia,1991,2395.978
+Russia,1992,1957.659
+Russia,1993,1859.46
+Russia,1994,1641.399
+Russia,1995,1612.928
+Russia,1996,1580.161
+Russia,1997,1475.157
+Russia,1998,1458.157
+Russia,1999,1486.09
+Russia,2000,1471.052
+Russia,2001,1507.501
+Russia,2002,1495.484
+Russia,2003,1525.39
+Russia,2004,1530.474
+Russia,2005,1547.376
+Russia,2006,1606.313
+Russia,2007,1604.324
+Russia,2008,1636.694
+Russia,2009,1528.765
+Russia,2010,1612.885
+Russia,2011,1664.953
+Russia,2012,1679.866
+Russia,2013,1619.173
+Russia,2014,1622.349
+Russia,2015,1622.861
+Russia,2016,1618.304
+Russia,2017,1646.18
+Russia,2018,1691.36
+Russia,2019,1678.367
+Saudi Arabia,1936,0.007
+Saudi Arabia,1937,0.026
+Saudi Arabia,1938,0.205
+Saudi Arabia,1939,1.652
+Saudi Arabia,1940,2.147
+Saudi Arabia,1941,1.81
+Saudi Arabia,1942,1.902
+Saudi Arabia,1943,1.993
+Saudi Arabia,1944,3.261
+Saudi Arabia,1945,8.812
+Saudi Arabia,1946,25.153
+Saudi Arabia,1947,37.732
+Saudi Arabia,1948,17.943
+Saudi Arabia,1949,18.386
+Saudi Arabia,1950,5.141
+Saudi Arabia,1951,-0.348
+Saudi Arabia,1952,-0.172
+Saudi Arabia,1953,0.476
+Saudi Arabia,1954,1.238
+Saudi Arabia,1955,2.114
+Saudi Arabia,1956,1.63
+Saudi Arabia,1957,2.099
+Saudi Arabia,1958,1.997
+Saudi Arabia,1959,1.854
+Saudi Arabia,1960,2.674
+Saudi Arabia,1961,3.568
+Saudi Arabia,1962,6.25
+Saudi Arabia,1963,6.939
+Saudi Arabia,1964,7.041
+Saudi Arabia,1965,4.216
+Saudi Arabia,1966,6.407
+Saudi Arabia,1967,25.485
+Saudi Arabia,1968,29.079
+Saudi Arabia,1969,35.271
+Saudi Arabia,1970,45.251
+Saudi Arabia,1971,59.757
+Saudi Arabia,1972,70.282
+Saudi Arabia,1973,95.054
+Saudi Arabia,1974,98.702
+Saudi Arabia,1975,83.261
+Saudi Arabia,1976,101.459
+Saudi Arabia,1977,118.07
+Saudi Arabia,1978,115.024
+Saudi Arabia,1979,138.004
+Saudi Arabia,1980,169.24
+Saudi Arabia,1981,175.303
+Saudi Arabia,1982,157.891
+Saudi Arabia,1983,160.835
+Saudi Arabia,1984,155.51
+Saudi Arabia,1985,172.419
+Saudi Arabia,1986,204.601
+Saudi Arabia,1987,190.444
+Saudi Arabia,1988,202.248
+Saudi Arabia,1989,203.419
+Saudi Arabia,1990,185.485
+Saudi Arabia,1991,267.386
+Saudi Arabia,1992,285.074
+Saudi Arabia,1993,313.327
+Saudi Arabia,1994,307.473
+Saudi Arabia,1995,234.712
+Saudi Arabia,1996,258.264
+Saudi Arabia,1997,215.797
+Saudi Arabia,1998,207.231
+Saudi Arabia,1999,225.976
+Saudi Arabia,2000,296.353
+Saudi Arabia,2001,296.575
+Saudi Arabia,2002,325.681
+Saudi Arabia,2003,326.517
+Saudi Arabia,2004,394.585
+Saudi Arabia,2005,395.855
+Saudi Arabia,2006,431.292
+Saudi Arabia,2007,386.507
+Saudi Arabia,2008,432.336
+Saudi Arabia,2009,465.844
+Saudi Arabia,2010,517.716
+Saudi Arabia,2011,497.659
+Saudi Arabia,2012,563.179
+Saudi Arabia,2013,540.805
+Saudi Arabia,2014,601.896
+Saudi Arabia,2015,645.409
+Saudi Arabia,2016,565.751
+Saudi Arabia,2017,579.417
+Saudi Arabia,2018,576.758
+Saudi Arabia,2019,582.15
+Singapore,1950,1.914
+Singapore,1951,2.826
+Singapore,1952,3.441
+Singapore,1953,3.482
+Singapore,1954,3.771
+Singapore,1955,4.053
+Singapore,1956,4.096
+Singapore,1957,1.729
+Singapore,1958,2.297
+Singapore,1959,1.799
+Singapore,1960,1.392
+Singapore,1961,2.092
+Singapore,1962,2.575
+Singapore,1963,3.396
+Singapore,1964,3.7
+Singapore,1965,2.527
+Singapore,1966,0.673
+Singapore,1967,3.054
+Singapore,1968,5.413
+Singapore,1969,7.197
+Singapore,1970,18.192
+Singapore,1971,16.577
+Singapore,1972,22.218
+Singapore,1973,21.199
+Singapore,1974,21.947
+Singapore,1975,24.518
+Singapore,1976,29.999
+Singapore,1977,28.265
+Singapore,1978,33.108
+Singapore,1979,36.057
+Singapore,1980,31.343
+Singapore,1981,26.741
+Singapore,1982,29.606
+Singapore,1983,34.81
+Singapore,1984,33.217
+Singapore,1985,33.267
+Singapore,1986,34.877
+Singapore,1987,32.461
+Singapore,1988,35.949
+Singapore,1989,41.709
+Singapore,1990,44.291
+Singapore,1991,45.049
+Singapore,1992,48.213
+Singapore,1993,50.871
+Singapore,1994,61.345
+Singapore,1995,41.842
+Singapore,1996,49.349
+Singapore,1997,58.072
+Singapore,1998,48.356
+Singapore,1999,49.871
+Singapore,2000,48.856
+Singapore,2001,49.442
+Singapore,2002,47.173
+Singapore,2003,49.497
+Singapore,2004,46.859
+Singapore,2005,36.468
+Singapore,2006,43.045
+Singapore,2007,47.518
+Singapore,2008,57.572
+Singapore,2009,90.098
+Singapore,2010,56.62
+Singapore,2011,30.272
+Singapore,2012,48.145
+Singapore,2013,54.366
+Singapore,2014,55.209
+Singapore,2015,62.13
+Singapore,2016,40.275
+Singapore,2017,39.066
+Singapore,2018,38.288
+Singapore,2019,38.945
+South Africa,1884,0.022
+South Africa,1885,0.037
+South Africa,1886,0.048
+South Africa,1887,0.048
+South Africa,1888,0.081
+South Africa,1889,0.132
+South Africa,1890,0.297
+South Africa,1891,0.297
+South Africa,1892,0.48
+South Africa,1893,1.799
+South Africa,1894,2.433
+South Africa,1895,3.338
+South Africa,1896,4.258
+South Africa,1897,4.778
+South Africa,1898,6.049
+South Africa,1899,5.518
+South Africa,1900,2.33
+South Africa,1901,3.909
+South Africa,1902,5.826
+South Africa,1903,7.782
+South Africa,1904,8.768
+South Africa,1905,10.028
+South Africa,1906,11.465
+South Africa,1907,12.652
+South Africa,1908,13.007
+South Africa,1909,14.975
+South Africa,1910,16.979
+South Africa,1911,16.341
+South Africa,1912,17.349
+South Africa,1913,18.983
+South Africa,1914,18.401
+South Africa,1915,18.511
+South Africa,1916,21.812
+South Africa,1917,23.34
+South Africa,1918,22.222
+South Africa,1919,23.138
+South Africa,1920,25.666
+South Africa,1921,25.414
+South Africa,1922,21.786
+South Africa,1923,26.443
+South Africa,1924,27.777
+South Africa,1925,28.953
+South Africa,1926,30.43
+South Africa,1927,29.561
+South Africa,1928,29.623
+South Africa,1929,30.769
+South Africa,1930,28.722
+South Africa,1931,25.567
+South Africa,1932,23.456
+South Africa,1933,25.332
+South Africa,1934,28.871
+South Africa,1935,32.157
+South Africa,1936,35.252
+South Africa,1937,36.816
+South Africa,1938,38.699
+South Africa,1939,40.157
+South Africa,1940,41.517
+South Africa,1941,44.327
+South Africa,1942,48.423
+South Africa,1943,48.764
+South Africa,1944,54.567
+South Africa,1945,55.868
+South Africa,1946,56.043
+South Africa,1947,55.834
+South Africa,1948,57.098
+South Africa,1949,60.586
+South Africa,1950,61.031
+South Africa,1951,65.142
+South Africa,1952,70.883
+South Africa,1953,70.996
+South Africa,1954,73.898
+South Africa,1955,82.936
+South Africa,1956,87.263
+South Africa,1957,89.652
+South Africa,1958,96.253
+South Africa,1959,94.473
+South Africa,1960,97.844
+South Africa,1961,102.12
+South Africa,1962,105.67
+South Africa,1963,109.725
+South Africa,1964,119.546
+South Africa,1965,128.14
+South Africa,1966,128.235
+South Africa,1967,133.76
+South Africa,1968,137.954
+South Africa,1969,143.143
+South Africa,1970,149.618
+South Africa,1971,168.405
+South Africa,1972,171.557
+South Africa,1973,173.358
+South Africa,1974,176.552
+South Africa,1975,185.011
+South Africa,1976,192.917
+South Africa,1977,199.747
+South Africa,1978,201.891
+South Africa,1979,218.684
+South Africa,1980,228.217
+South Africa,1981,257.1
+South Africa,1982,280.46
+South Africa,1983,291.93
+South Africa,1984,315.624
+South Africa,1985,323.89
+South Africa,1986,330.526
+South Africa,1987,328.696
+South Africa,1988,342.696
+South Africa,1989,340.753
+South Africa,1990,312.972
+South Africa,1991,326.069
+South Africa,1992,301.368
+South Africa,1993,320.39
+South Africa,1994,338.625
+South Africa,1995,361.641
+South Africa,1996,363.673
+South Africa,1997,385.458
+South Africa,1998,377.312
+South Africa,1999,374.83
+South Africa,2000,378.255
+South Africa,2001,371.517
+South Africa,2002,356.357
+South Africa,2003,404.173
+South Africa,2004,449.079
+South Africa,2005,415.925
+South Africa,2006,446.623
+South Africa,2007,464.8
+South Africa,2008,494.642
+South Africa,2009,502.259
+South Africa,2010,466.93
+South Africa,2011,473.949
+South Africa,2012,461.139
+South Africa,2013,455.866
+South Africa,2014,481.885
+South Africa,2015,451.59
+South Africa,2016,460.043
+South Africa,2017,466.103
+South Africa,2018,472.001
+South Africa,2019,478.608
+South Korea,1905,0.001
+South Korea,1906,
+South Korea,1907,
+South Korea,1908,
+South Korea,1909,0.008
+South Korea,1910,0.01
+South Korea,1911,0.012
+South Korea,1912,0.015
+South Korea,1913,0.018
+South Korea,1914,0.026
+South Korea,1915,0.032
+South Korea,1916,0.027
+South Korea,1917,
+South Korea,1918,0.026
+South Korea,1919,0.031
+South Korea,1920,0.04
+South Korea,1921,0.043
+South Korea,1922,0.044
+South Korea,1923,0.053
+South Korea,1924,0.056
+South Korea,1925,0.089
+South Korea,1926,0.095
+South Korea,1927,0.099
+South Korea,1928,0.114
+South Korea,1929,0.131
+South Korea,1930,0.123
+South Korea,1931,0.131
+South Korea,1932,0.154
+South Korea,1933,0.182
+South Korea,1934,0.242
+South Korea,1935,0.284
+South Korea,1936,0.333
+South Korea,1937,0.357
+South Korea,1938,0.477
+South Korea,1939,0.623
+South Korea,1940,0.802
+South Korea,1941,0.894
+South Korea,1942,0.987
+South Korea,1943,0.956
+South Korea,1944,1.01
+South Korea,1945,0.004
+South Korea,1946,0.487
+South Korea,1947,0.898
+South Korea,1948,1.671
+South Korea,1949,2.176
+South Korea,1950,2.184
+South Korea,1951,2.924
+South Korea,1952,3.462
+South Korea,1953,4.693
+South Korea,1954,5.159
+South Korea,1955,6.445
+South Korea,1956,7.555
+South Korea,1957,8.214
+South Korea,1958,9.009
+South Korea,1959,11.221
+South Korea,1960,12.54
+South Korea,1961,14.449
+South Korea,1962,17.262
+South Korea,1963,21.083
+South Korea,1964,22.195
+South Korea,1965,24.978
+South Korea,1966,29.982
+South Korea,1967,35.113
+South Korea,1968,37.197
+South Korea,1969,42.468
+South Korea,1970,53.716
+South Korea,1971,58.55
+South Korea,1972,60.277
+South Korea,1973,73.032
+South Korea,1974,75.633
+South Korea,1975,81.784
+South Korea,1976,93.271
+South Korea,1977,105.692
+South Korea,1978,113.402
+South Korea,1979,133.219
+South Korea,1980,134.889
+South Korea,1981,139.778
+South Korea,1982,141.983
+South Korea,1983,151.038
+South Korea,1984,164.049
+South Korea,1985,178.485
+South Korea,1986,182.672
+South Korea,1987,192.94
+South Korea,1988,222.308
+South Korea,1989,236.248
+South Korea,1990,247.438
+South Korea,1991,262.038
+South Korea,1992,282.194
+South Korea,1993,321.838
+South Korea,1994,344.264
+South Korea,1995,373.992
+South Korea,1996,401.53
+South Korea,1997,427.786
+South Korea,1998,363.548
+South Korea,1999,398.325
+South Korea,2000,445.441
+South Korea,2001,448.551
+South Korea,2002,463.628
+South Korea,2003,462.407
+South Korea,2004,478.606
+South Korea,2005,459.346
+South Korea,2006,465.606
+South Korea,2007,493.353
+South Korea,2008,505.783
+South Korea,2009,506.764
+South Korea,2010,565.961
+South Korea,2011,588.404
+South Korea,2012,583.632
+South Korea,2013,591.54
+South Korea,2014,586.548
+South Korea,2015,595.394
+South Korea,2016,617.96
+South Korea,2017,620.61
+South Korea,2018,634.934
+South Korea,2019,611.263
+Thailand,1931,0.029
+Thailand,1932,0.025
+Thailand,1933,0.022
+Thailand,1934,0.025
+Thailand,1935,0.025
+Thailand,1936,0.029
+Thailand,1937,0.036
+Thailand,1938,0.04
+Thailand,1939,0.047
+Thailand,1940,0.058
+Thailand,1941,0.058
+Thailand,1943,0.033
+Thailand,1944,0.015
+Thailand,1947,0.029
+Thailand,1948,0.04
+Thailand,1949,0.062
+Thailand,1950,0.956
+Thailand,1951,1.091
+Thailand,1952,1.278
+Thailand,1953,1.644
+Thailand,1954,2.05
+Thailand,1955,2.373
+Thailand,1956,2.618
+Thailand,1957,2.922
+Thailand,1958,3.017
+Thailand,1959,3.321
+Thailand,1960,3.709
+Thailand,1961,4.141
+Thailand,1962,5.027
+Thailand,1963,5.562
+Thailand,1964,7.47
+Thailand,1965,7.44
+Thailand,1966,9.465
+Thailand,1967,12.15
+Thailand,1968,17.076
+Thailand,1969,14.54
+Thailand,1970,15.353
+Thailand,1971,19.221
+Thailand,1972,21.805
+Thailand,1973,24.42
+Thailand,1974,24.211
+Thailand,1975,24.372
+Thailand,1976,28.716
+Thailand,1977,32.065
+Thailand,1978,34.947
+Thailand,1979,36.586
+Thailand,1980,39.956
+Thailand,1981,37.817
+Thailand,1982,37.636
+Thailand,1983,42.117
+Thailand,1984,45.556
+Thailand,1985,48.23
+Thailand,1986,49.223
+Thailand,1987,56.306
+Thailand,1988,66.203
+Thailand,1989,77.784
+Thailand,1990,87.917
+Thailand,1991,96.746
+Thailand,1992,106.094
+Thailand,1993,121.213
+Thailand,1994,134.507
+Thailand,1995,156.636
+Thailand,1996,173.729
+Thailand,1997,179.06
+Thailand,1998,159.239
+Thailand,1999,166.143
+Thailand,2000,170.698
+Thailand,2001,182.484
+Thailand,2002,192.054
+Thailand,2003,203.237
+Thailand,2004,218.514
+Thailand,2005,224.346
+Thailand,2006,227.717
+Thailand,2007,230.762
+Thailand,2008,228.116
+Thailand,2009,243.279
+Thailand,2010,256.422
+Thailand,2011,253.801
+Thailand,2012,270.175
+Thailand,2013,286.069
+Thailand,2014,279.994
+Thailand,2015,283.293
+Thailand,2016,281.705
+Thailand,2017,286.336
+Thailand,2018,292.453
+Thailand,2019,288.28
+Turkey,1865,0.15
+Turkey,1866,0.209
+Turkey,1867,0.227
+Turkey,1868,0.176
+Turkey,1869,0.267
+Turkey,1870,0.158
+Turkey,1871,0.198
+Turkey,1872,0.245
+Turkey,1873,0.238
+Turkey,1874,0.256
+Turkey,1875,0.352
+Turkey,1876,0.275
+Turkey,1877,0.447
+Turkey,1878,0.326
+Turkey,1879,0.125
+Turkey,1880,0.139
+Turkey,1881,0.183
+Turkey,1882,0.154
+Turkey,1883,0.161
+Turkey,1884,0.176
+Turkey,1885,0.194
+Turkey,1886,0.136
+Turkey,1887,0.245
+Turkey,1888,0.267
+Turkey,1889,0.403
+Turkey,1890,0.366
+Turkey,1891,0.403
+Turkey,1892,0.41
+Turkey,1893,0.425
+Turkey,1894,0.392
+Turkey,1895,0.374
+Turkey,1896,0.443
+Turkey,1897,0.315
+Turkey,1898,0.524
+Turkey,1899,0.671
+Turkey,1900,1.037
+Turkey,1901,0.949
+Turkey,1902,1.048
+Turkey,1903,1.205
+Turkey,1904,1.367
+Turkey,1905,1.532
+Turkey,1906,1.579
+Turkey,1907,1.88
+Turkey,1908,1.722
+Turkey,1909,1.957
+Turkey,1910,1.883
+Turkey,1911,2.228
+Turkey,1912,1.997
+Turkey,1913,2.037
+Turkey,1914,1.663
+Turkey,1915,1.037
+Turkey,1916,0.513
+Turkey,1917,0.392
+Turkey,1918,0.458
+Turkey,1919,0.938
+Turkey,1920,1.403
+Turkey,1921,0.843
+Turkey,1922,1.011
+Turkey,1923,1.473
+Turkey,1924,2.451
+Turkey,1925,2.367
+Turkey,1926,3.008
+Turkey,1927,3.279
+Turkey,1928,3.125
+Turkey,1929,3.55
+Turkey,1930,3.972
+Turkey,1931,3.938
+Turkey,1932,4.001
+Turkey,1933,4.664
+Turkey,1934,5.792
+Turkey,1935,5.935
+Turkey,1936,5.865
+Turkey,1937,4.246
+Turkey,1938,4.634
+Turkey,1939,4.905
+Turkey,1940,5.469
+Turkey,1941,5.619
+Turkey,1942,4.946
+Turkey,1943,6.118
+Turkey,1944,7.023
+Turkey,1945,7.089
+Turkey,1946,7.023
+Turkey,1947,7.477
+Turkey,1948,7.7
+Turkey,1949,7.968
+Turkey,1950,9.488
+Turkey,1951,10.184
+Turkey,1952,10.474
+Turkey,1953,12.965
+Turkey,1954,13.433
+Turkey,1955,13.619
+Turkey,1956,14.359
+Turkey,1957,15.97
+Turkey,1958,16.035
+Turkey,1959,17.192
+Turkey,1960,16.799
+Turkey,1961,17.341
+Turkey,1962,21.605
+Turkey,1963,22.64
+Turkey,1964,26.303
+Turkey,1965,27.353
+Turkey,1966,31.506
+Turkey,1967,33.479
+Turkey,1968,36.265
+Turkey,1969,38.753
+Turkey,1970,42.579
+Turkey,1971,47.638
+Turkey,1972,53.722
+Turkey,1973,59.31
+Turkey,1974,60.929
+Turkey,1975,65.419
+Turkey,1976,73.359
+Turkey,1977,81.121
+Turkey,1978,76.714
+Turkey,1979,75.038
+Turkey,1980,75.212
+Turkey,1981,79.186
+Turkey,1982,86.21
+Turkey,1983,89.812
+Turkey,1984,94.906
+Turkey,1985,105.663
+Turkey,1986,115.618
+Turkey,1987,128.443
+Turkey,1988,124.728
+Turkey,1989,137.57
+Turkey,1990,151.508
+Turkey,1991,157.982
+Turkey,1992,163.922
+Turkey,1993,171.011
+Turkey,1994,167.433
+Turkey,1995,180.903
+Turkey,1996,199.522
+Turkey,1997,212.006
+Turkey,1998,212.04
+Turkey,1999,207.804
+Turkey,2000,229.791
+Turkey,2001,213.486
+Turkey,2002,220.978
+Turkey,2003,236.484
+Turkey,2004,244.464
+Turkey,2005,264.201
+Turkey,2006,281.649
+Turkey,2007,312.737
+Turkey,2008,309.321
+Turkey,2009,315.36
+Turkey,2010,314.38
+Turkey,2011,339.482
+Turkey,2012,353.666
+Turkey,2013,345.221
+Turkey,2014,361.675
+Turkey,2015,381.332
+Turkey,2016,401.24
+Turkey,2017,425.329
+Turkey,2018,419.195
+Turkey,2019,405.126
+United Kingdom,1750,9.351
+United Kingdom,1751,9.351
+United Kingdom,1752,9.354
+United Kingdom,1753,9.354
+United Kingdom,1754,9.358
+United Kingdom,1755,9.362
+United Kingdom,1756,10.006
+United Kingdom,1757,10.01
+United Kingdom,1758,10.014
+United Kingdom,1759,10.017
+United Kingdom,1760,10.017
+United Kingdom,1761,10.974
+United Kingdom,1762,10.977
+United Kingdom,1763,10.981
+United Kingdom,1764,10.985
+United Kingdom,1765,10.988
+United Kingdom,1766,12.26
+United Kingdom,1767,12.263
+United Kingdom,1768,12.267
+United Kingdom,1769,12.271
+United Kingdom,1770,12.274
+United Kingdom,1771,13.612
+United Kingdom,1772,13.615
+United Kingdom,1773,13.619
+United Kingdom,1774,13.623
+United Kingdom,1775,13.626
+United Kingdom,1776,15.037
+United Kingdom,1777,15.041
+United Kingdom,1778,15.044
+United Kingdom,1779,15.048
+United Kingdom,1780,15.055
+United Kingdom,1781,16.843
+United Kingdom,1782,16.847
+United Kingdom,1783,16.854
+United Kingdom,1784,16.858
+United Kingdom,1785,16.865
+United Kingdom,1786,19.148
+United Kingdom,1787,19.155
+United Kingdom,1788,19.159
+United Kingdom,1789,19.166
+United Kingdom,1790,19.174
+United Kingdom,1791,21.416
+United Kingdom,1792,21.423
+United Kingdom,1793,21.431
+United Kingdom,1794,21.434
+United Kingdom,1795,21.442
+United Kingdom,1796,22.413
+United Kingdom,1797,23.541
+United Kingdom,1798,24.516
+United Kingdom,1799,25.798
+United Kingdom,1800,26.634
+United Kingdom,1801,26.711
+United Kingdom,1802,26.85
+United Kingdom,1803,30.191
+United Kingdom,1804,30.331
+United Kingdom,1805,31.463
+United Kingdom,1806,33.251
+United Kingdom,1807,33.258
+United Kingdom,1808,33.269
+United Kingdom,1809,33.28
+United Kingdom,1810,33.291
+United Kingdom,1811,35.563
+United Kingdom,1812,36.937
+United Kingdom,1813,37.376
+United Kingdom,1814,38.087
+United Kingdom,1815,38.923
+United Kingdom,1816,41.436
+United Kingdom,1817,41.923
+United Kingdom,1818,42.022
+United Kingdom,1819,42.338
+United Kingdom,1820,42.528
+United Kingdom,1821,42.872
+United Kingdom,1822,44.521
+United Kingdom,1823,46.874
+United Kingdom,1824,49.083
+United Kingdom,1825,49.592
+United Kingdom,1826,50.146
+United Kingdom,1827,52.23
+United Kingdom,1828,52.589
+United Kingdom,1829,53.337
+United Kingdom,1830,67.865
+United Kingdom,1831,65.765
+United Kingdom,1832,65.589
+United Kingdom,1833,65.494
+United Kingdom,1834,65.538
+United Kingdom,1835,65.263
+United Kingdom,1836,76.446
+United Kingdom,1837,73.771
+United Kingdom,1838,75.812
+United Kingdom,1839,77.779
+United Kingdom,1840,80.96
+United Kingdom,1841,81.839
+United Kingdom,1842,85.371
+United Kingdom,1843,89.094
+United Kingdom,1844,93.472
+United Kingdom,1845,99.987
+United Kingdom,1846,95.693
+United Kingdom,1847,103.548
+United Kingdom,1848,109.286
+United Kingdom,1849,116.006
+United Kingdom,1850,122.605
+United Kingdom,1851,116.654
+United Kingdom,1852,116.24
+United Kingdom,1853,115.599
+United Kingdom,1854,139.302
+United Kingdom,1855,130.442
+United Kingdom,1856,140.375
+United Kingdom,1857,137.862
+United Kingdom,1858,135.114
+United Kingdom,1859,150.011
+United Kingdom,1860,167.95
+United Kingdom,1861,175.048
+United Kingdom,1862,169.471
+United Kingdom,1863,180.225
+United Kingdom,1864,193.91
+United Kingdom,1865,205.488
+United Kingdom,1866,211.732
+United Kingdom,1867,217.374
+United Kingdom,1868,213.219
+United Kingdom,1869,223.706
+United Kingdom,1870,228.494
+United Kingdom,1871,242.037
+United Kingdom,1872,254.989
+United Kingdom,1873,264.658
+United Kingdom,1874,257.187
+United Kingdom,1875,271.488
+United Kingdom,1876,271.019
+United Kingdom,1877,275.899
+United Kingdom,1878,270.975
+United Kingdom,1879,272.646
+United Kingdom,1880,297.125
+United Kingdom,1881,312.312
+United Kingdom,1882,314.965
+United Kingdom,1883,327.73
+United Kingdom,1884,319.098
+United Kingdom,1885,315.291
+United Kingdom,1886,312.429
+United Kingdom,1887,320.442
+United Kingdom,1888,333.168
+United Kingdom,1889,345.024
+United Kingdom,1890,353.023
+United Kingdom,1891,360.472
+United Kingdom,1892,353.008
+United Kingdom,1893,316.211
+United Kingdom,1894,362.102
+United Kingdom,1895,365.55
+United Kingdom,1896,375.981
+United Kingdom,1897,385.969
+United Kingdom,1898,386.878
+United Kingdom,1899,414.552
+United Kingdom,1900,419.741
+United Kingdom,1901,410.701
+United Kingdom,1902,426.64
+United Kingdom,1903,429.985
+United Kingdom,1904,431.993
+United Kingdom,1905,437.672
+United Kingdom,1906,453.35
+United Kingdom,1907,473.568
+United Kingdom,1908,461.964
+United Kingdom,1909,466.086
+United Kingdom,1910,469.732
+United Kingdom,1911,481.351
+United Kingdom,1912,455.886
+United Kingdom,1913,498.322
+United Kingdom,1914,483.183
+United Kingdom,1915,489.481
+United Kingdom,1916,507.072
+United Kingdom,1917,501.169
+United Kingdom,1918,466.849
+United Kingdom,1919,456.131
+United Kingdom,1920,470.014
+United Kingdom,1921,319.805
+United Kingdom,1922,428.223
+United Kingdom,1923,454.893
+United Kingdom,1924,475.983
+United Kingdom,1925,449.657
+United Kingdom,1926,246.371
+United Kingdom,1927,466.735
+United Kingdom,1928,437.64
+United Kingdom,1929,460.674
+United Kingdom,1930,441.074
+United Kingdom,1931,412.212
+United Kingdom,1932,395.9
+United Kingdom,1933,392.155
+United Kingdom,1934,423.204
+United Kingdom,1935,429.107
+United Kingdom,1936,453.796
+United Kingdom,1937,468.131
+United Kingdom,1938,448.94
+United Kingdom,1939,452.456
+United Kingdom,1940,475.144
+United Kingdom,1941,469.652
+United Kingdom,1942,468.9
+United Kingdom,1943,454.82
+United Kingdom,1944,442.025
+United Kingdom,1945,417.624
+United Kingdom,1946,436.128
+United Kingdom,1947,461.269
+United Kingdom,1948,475.563
+United Kingdom,1949,485.109
+United Kingdom,1950,500.792
+United Kingdom,1951,545.253
+United Kingdom,1952,528.706
+United Kingdom,1953,540.211
+United Kingdom,1954,553.01
+United Kingdom,1955,576.952
+United Kingdom,1956,574.324
+United Kingdom,1957,570.714
+United Kingdom,1958,556.316
+United Kingdom,1959,546.606
+United Kingdom,1960,584.02
+United Kingdom,1961,588.615
+United Kingdom,1962,592.931
+United Kingdom,1963,603.386
+United Kingdom,1964,607.866
+United Kingdom,1965,622.112
+United Kingdom,1966,618.075
+United Kingdom,1967,592.057
+United Kingdom,1968,606.488
+United Kingdom,1969,628.383
+United Kingdom,1970,652.577
+United Kingdom,1971,660.388
+United Kingdom,1972,648.026
+United Kingdom,1973,659.577
+United Kingdom,1974,617.184
+United Kingdom,1975,603.247
+United Kingdom,1976,598.526
+United Kingdom,1977,604.362
+United Kingdom,1978,604.714
+United Kingdom,1979,644.513
+United Kingdom,1980,579.036
+United Kingdom,1981,560.555
+United Kingdom,1982,548.241
+United Kingdom,1983,545.486
+United Kingdom,1984,529.109
+United Kingdom,1985,559.628
+United Kingdom,1986,568.555
+United Kingdom,1987,571.669
+United Kingdom,1988,570.295
+United Kingdom,1989,581.577
+United Kingdom,1990,600.479
+United Kingdom,1991,608.579
+United Kingdom,1992,593.093
+United Kingdom,1993,578.842
+United Kingdom,1994,575.108
+United Kingdom,1995,566.811
+United Kingdom,1996,588.444
+United Kingdom,1997,562.561
+United Kingdom,1998,567.814
+United Kingdom,1999,560.952
+United Kingdom,2000,567.504
+United Kingdom,2001,576.195
+United Kingdom,2002,560.301
+United Kingdom,2003,571.771
+United Kingdom,2004,573.216
+United Kingdom,2005,569.927
+United Kingdom,2006,567.528
+United Kingdom,2007,559.249
+United Kingdom,2008,544.812
+United Kingdom,2009,494.294
+United Kingdom,2010,512.024
+United Kingdom,2011,469.804
+United Kingdom,2012,487.796
+United Kingdom,2013,477.901
+United Kingdom,2014,439.058
+United Kingdom,2015,422.491
+United Kingdom,2016,399.11
+United Kingdom,2017,388.088
+United Kingdom,2018,380.139
+United Kingdom,2019,369.878
+United States,1800,0.253
+United States,1801,0.267
+United States,1802,0.289
+United States,1803,0.297
+United States,1804,0.333
+United States,1805,0.341
+United States,1806,0.333
+United States,1807,0.377
+United States,1808,0.392
+United States,1809,0.403
+United States,1810,0.418
+United States,1811,0.447
+United States,1812,0.484
+United States,1813,0.52
+United States,1814,0.561
+United States,1815,0.601
+United States,1816,0.663
+United States,1817,0.718
+United States,1818,0.78
+United States,1819,0.762
+United States,1820,0.791
+United States,1821,0.828
+United States,1822,0.865
+United States,1823,0.901
+United States,1824,1.015
+United States,1825,1.136
+United States,1826,1.315
+United States,1827,1.447
+United States,1828,1.594
+United States,1829,1.795
+United States,1830,2.088
+United States,1831,2.264
+United States,1832,3.023
+United States,1833,3.528
+United States,1834,3.382
+United States,1835,4.316
+United States,1836,4.73
+United States,1837,5.305
+United States,1838,5.031
+United States,1839,5.518
+United States,1840,5.873
+United States,1841,6.214
+United States,1842,6.918
+United States,1843,7.764
+United States,1844,9.307
+United States,1845,11.205
+United States,1846,12.71
+United States,1847,15.07
+United States,1848,16.785
+United States,1849,18.221
+United States,1850,19.793
+United States,1851,24.633
+United States,1852,26.791
+United States,1853,30.162
+United States,1854,33.159
+United States,1855,38.161
+United States,1856,40.037
+United States,1857,41.055
+United States,1858,41.649
+United States,1859,45.32
+United States,1860,47.438
+United States,1861,45.679
+United States,1862,47.449
+United States,1863,54.81
+United States,1864,58.657
+United States,1865,58.822
+United States,1866,59.232
+United States,1867,72.866
+United States,1868,82.352
+United States,1869,93.696
+United States,1870,98.62
+United States,1871,103.021
+United States,1872,126.305
+United States,1873,139.507
+United States,1874,134.297
+United States,1875,135.748
+United States,1876,132.82
+United States,1877,147.176
+United States,1878,143.904
+United States,1879,175.469
+United States,1880,198.684
+United States,1881,210.193
+United States,1882,235.394
+United States,1883,253.882
+United States,1884,267.589
+United States,1885,272.162
+United States,1886,287.463
+United States,1887,307.38
+United States,1888,373.875
+United States,1889,335.542
+United States,1890,401.747
+United States,1891,427.424
+United States,1892,450.448
+United States,1893,454.094
+United States,1894,425.05
+United States,1895,479.947
+United States,1896,480.882
+United States,1897,500.286
+United States,1898,545.32
+United States,1899,625.533
+United States,1900,664.123
+United States,1901,723.182
+United States,1902,766.638
+United States,1903,896.937
+United States,1904,882.953
+United States,1905,987.989
+United States,1906,1037.809
+United States,1907,1206.404
+United States,1908,1055.659
+United States,1909,1169.267
+United States,1910,1276.14
+United States,1911,1263.459
+United States,1912,1348.625
+United States,1913,1448.384
+United States,1914,1323.621
+United States,1915,1372.983
+United States,1916,1524.475
+United States,1917,1676.786
+United States,1918,1751.951
+United States,1919,1484.188
+United States,1920,1744.765
+United States,1921,1430.738
+United States,1922,1443.529
+United States,1923,1906.245
+United States,1924,1708.89
+United States,1925,1755.017
+United States,1926,1902.952
+United States,1927,1859.812
+United States,1928,1827.936
+United States,1929,1960.553
+United States,1930,1742.555
+United States,1931,1483.059
+United States,1932,1256.453
+United States,1933,1347.302
+United States,1934,1434.583
+United States,1935,1490.299
+United States,1936,1710.857
+United States,1937,1789.832
+United States,1938,1513.492
+United States,1939,1667.993
+United States,1940,1871.653
+United States,1941,2039.421
+United States,1942,2194.073
+United States,1943,2267.575
+United States,1944,2440.436
+United States,1945,2355.413
+United States,1946,2253.295
+United States,1947,2481.044
+United States,1948,2577.397
+United States,1949,2160.38
+United States,1950,2536.096
+United States,1951,2612.719
+United States,1952,2545.38
+United States,1953,2606.057
+United States,1954,2483.296
+United States,1955,2721.023
+United States,1956,2852.385
+United States,1957,2828.311
+United States,1958,2740.357
+United States,1959,2823.005
+United States,1960,2887.82
+United States,1961,2877.37
+United States,1962,2984.002
+United States,1963,3116.022
+United States,1964,3252.755
+United States,1965,3388.193
+United States,1966,3559.179
+United States,1967,3693.298
+United States,1968,3828.306
+United States,1969,4021.503
+United States,1970,4325.501
+United States,1971,4351.309
+United States,1972,4558.453
+United States,1973,4762.452
+United States,1974,4592.958
+United States,1975,4400.795
+United States,1976,4607.168
+United States,1977,4735.366
+United States,1978,4882.964
+United States,1979,4894.043
+United States,1980,4716.716
+United States,1981,4530.37
+United States,1982,4301.971
+United States,1983,4335.917
+United States,1984,4468.262
+United States,1985,4484.338
+United States,1986,4487.856
+United States,1987,4680.834
+United States,1988,4885.591
+United States,1989,4948.021
+United States,1990,5128.301
+United States,1991,5078.89
+United States,1992,5182.707
+United States,1993,5283.438
+United States,1994,5377.033
+United States,1995,5438.906
+United States,1996,5626.912
+United States,1997,5703.707
+United States,1998,5751.052
+United States,1999,5830.298
+United States,2000,5998.07
+United States,2001,5900.437
+United States,2002,5942.652
+United States,2003,5991.96
+United States,2004,6107.618
+United States,2005,6131.893
+United States,2006,6051.051
+United States,2007,6128.43
+United States,2008,5930.54
+United States,2009,5491.036
+United States,2010,5698.056
+United States,2011,5565.294
+United States,2012,5367.569
+United States,2013,5514.029
+United States,2014,5561.719
+United States,2015,5412.432
+United States,2016,5292.268
+United States,2017,5253.606
+United States,2018,5424.882
+United States,2019,5284.697
+Vietnam,1892,0.213
+Vietnam,1893,0.663
+Vietnam,1894,0.304
+Vietnam,1895,0.18
+Vietnam,1896,0.363
+Vietnam,1897,0.524
+Vietnam,1898,0.656
+Vietnam,1899,0.733
+Vietnam,1900,0.513
+Vietnam,1901,0.502
+Vietnam,1902,0.399
+Vietnam,1903,0.557
+Vietnam,1904,0.802
+Vietnam,1905,0.791
+Vietnam,1906,0.835
+Vietnam,1907,0.85
+Vietnam,1908,0.92
+Vietnam,1909,1.019
+Vietnam,1910,1.323
+Vietnam,1911,1.158
+Vietnam,1912,1.14
+Vietnam,1913,1.352
+Vietnam,1914,1.645
+Vietnam,1915,1.707
+Vietnam,1916,1.817
+Vietnam,1917,1.737
+Vietnam,1918,1.689
+Vietnam,1919,1.766
+Vietnam,1920,1.858
+Vietnam,1921,2.444
+Vietnam,1922,2.627
+Vietnam,1923,2.803
+Vietnam,1924,3.279
+Vietnam,1925,3.616
+Vietnam,1926,3.422
+Vietnam,1927,3.957
+Vietnam,1928,5.297
+Vietnam,1929,5.323
+Vietnam,1930,5.272
+Vietnam,1931,4.656
+Vietnam,1932,4.627
+Vietnam,1933,4.275
+Vietnam,1934,4.283
+Vietnam,1935,4.763
+Vietnam,1936,5.873
+Vietnam,1937,6.239
+Vietnam,1938,6.352
+Vietnam,1939,7.092
+Vietnam,1940,6.77
+Vietnam,1941,6.327
+Vietnam,1942,3.385
+Vietnam,1943,2.769
+Vietnam,1944,1.425
+Vietnam,1945,0.616
+Vietnam,1946,0.714
+Vietnam,1947,0.711
+Vietnam,1948,1
+Vietnam,1949,1.077
+Vietnam,1950,1.48
+Vietnam,1951,1.285
+Vietnam,1952,1.864
+Vietnam,1953,1.75
+Vietnam,1954,2.67
+Vietnam,1955,3.524
+Vietnam,1956,2.908
+Vietnam,1957,2.876
+Vietnam,1958,5.015
+Vietnam,1959,6.605
+Vietnam,1960,7.484
+Vietnam,1961,7.978
+Vietnam,1962,9.338
+Vietnam,1963,9.11
+Vietnam,1964,11.788
+Vietnam,1965,13.15
+Vietnam,1966,19.181
+Vietnam,1967,22.962
+Vietnam,1968,23.601
+Vietnam,1969,27.056
+Vietnam,1970,28.173
+Vietnam,1971,24.505
+Vietnam,1972,23.037
+Vietnam,1973,25.073
+Vietnam,1974,19.065
+Vietnam,1975,21.78
+Vietnam,1976,13.905
+Vietnam,1977,15.251
+Vietnam,1978,15.389
+Vietnam,1979,16.248
+Vietnam,1980,16.786
+Vietnam,1981,17.691
+Vietnam,1982,18.332
+Vietnam,1983,19.255
+Vietnam,1984,17.474
+Vietnam,1985,21.068
+Vietnam,1986,20.751
+Vietnam,1987,24.096
+Vietnam,1988,23.009
+Vietnam,1989,17.326
+Vietnam,1990,21.2
+Vietnam,1991,21.263
+Vietnam,1992,21.324
+Vietnam,1993,22.711
+Vietnam,1994,26.019
+Vietnam,1995,28.523
+Vietnam,1996,34.023
+Vietnam,1997,44.309
+Vietnam,1998,46.555
+Vietnam,1999,46.658
+Vietnam,2000,52.332
+Vietnam,2001,59.529
+Vietnam,2002,68.661
+Vietnam,2003,76.277
+Vietnam,2004,87.8
+Vietnam,2005,94.859
+Vietnam,2006,99.13
+Vietnam,2007,100.577
+Vietnam,2008,113.244
+Vietnam,2009,122.833
+Vietnam,2010,136.113
+Vietnam,2011,145.048
+Vietnam,2012,135.686
+Vietnam,2013,140.893
+Vietnam,2014,159.583
+Vietnam,2015,184.436
+Vietnam,2016,185.432
+Vietnam,2017,182.584
+Vietnam,2018,211.774
+Vietnam,2019,247.709

@@ -1,0 +1,22 @@
+﻿Sector
+Metals
+Textiles
+Machines
+Transportation
+Chemical Products
+Instruments
+Animal Products
+Miscellaneous
+Mineral Products
+Wood Products
+Arts and Antiques
+Precious Metals
+Plastics and Rubbers
+Animal Hides
+Footwear and Headwear
+Foodstuffs
+Stone And Glass
+Paper Goods
+Vegetable Products
+Animal and Vegetable Bi-Products
+Weapons

@@ -1,0 +1,13 @@
+﻿Origin_Country,Destination_Country,Export_Value_of_that_Sector,Sector,Year
+Brunei Darussalam,United States,25700000,Metals,2019
+Brunei Darussalam,United States,7440000,Textiles,2019
+Brunei Darussalam,United States,16120000,Metals,2018
+Brunei Darussalam,United States,5920000,Textiles,2018
+Brunei Darussalam,China,2550000,Metals,2019
+Brunei Darussalam,China,1830000,Animal Products,2019
+China,Malaysia,442000000,Metals,2016
+China,Malaysia,301000000,Textiles,2016
+China,Malaysia,1596000000,Machines,2017
+China,Malaysia,445000000,Metals,2017
+Indonesia,United States,169000000,Machines,2018
+Indonesia,United States,159000000,Footwear and Headwear,2018

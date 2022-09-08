@@ -1,0 +1,24 @@
+Sebastian Cabrejos (scabrej1) & Hubert Leo (hleo1)
+Project Phase E due May 11, 11 p.m.
+
+There is no particular order necessary, but the following sql
+files must be executed before using the database.
+
+setup.sql or setup-small.sql
+Query1.sql
+Query2.sql
+Query3.sql
+Query4.sql
+Query4.sql
+Query5.sql
+Query6.sql
+Query7.sql
+Query8.sql
+Query9.sql
+Query10.sql
+Query11.sql
+
+This can generally be done with execution within the public_html folder:
+cat *.sql | mysql -h dbase.cs.jhu.edu -u 21sp_scabrej1 -D 21sp_scabrej1_db -p
+
+but individual execution will suffice as well.
